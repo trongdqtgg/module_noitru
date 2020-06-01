@@ -11,7 +11,7 @@ Hỗ trợ viết markdown: [https://stackedit.io/](https://stackedit.io/). Ti�
 
 Hỗ trợ upload hình ảnh: https://imgur.com/. Sử dụng để link hình ảnh trực tiếp vào markdown
 
-Hỗ trợ quản lý danh sách chức năng: https://yte-tiengiang.vnpthis.vn/web_his/version. Quản lý theo version, thống kê được danh sách chức năng
+Hỗ trợ quản lý danh sách chức năng: https://yte-tiengiang.vnpthis.vn/web_his/version. Quản lý theo version, thống kê được danh sách chức năng, danh sách đường dẫn tài liệu
 
 Hỗ trợ quản lý tài liệu: https://github.com/trongdqtgg/module_noitru
 
