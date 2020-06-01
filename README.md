@@ -4,9 +4,9 @@ Bước 1: File tài liệu phải là định dạng .md
 
 Bước 2: Commit lên branch
 
-Bước 2: Tạo pull request
+Bước 3: Tạo pull request
 
-Bước 3: Merge pull request
+Bước 4: Merge pull request
 
 ## Các công cụ hỗ trợ
 Hỗ trợ viết markdown: [https://stackedit.io/](https://stackedit.io/). Tiện ích viết markdown kéo thả, diagram, table, ... Hỗ trợ import/export định dạng .md .html
