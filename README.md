@@ -8,6 +8,7 @@ Bước 3: Merge pull request
 
 ## Các công cụ hỗ trợ
 Hỗ trợ viết markdown: [https://stackedit.io/](https://stackedit.io/). Tiện ích viết markdown kéo thả, diagram, table, ... Hỗ trợ import/export định dạng .md .html
+
 Hỗ trợ upload hình ảnh: https://imgur.com/. Sử dụng để link hình ảnh trực tiếp vào markdown
 ## Lưu ý
 Khi viết paragraph khi có xuống dòng thì enter 2 lần giúp để đồng bộ tài liệu
