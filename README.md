@@ -1,6 +1,8 @@
 # MODULE NỘI TRÚ XIN CHÀO
 ## Hướng dẫn viết và commit tài liệu
-Bước 1: Commit lên branch
+Bước 1: File tài liệu phải là định dạng .md
+
+Bước 2: Commit lên branch
 
 Bước 2: Tạo pull request
 
