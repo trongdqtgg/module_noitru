@@ -1,3 +1,4 @@
+
 # MODULE NỘI TRÚ XIN CHÀO
 ## Hướng dẫn viết và commit tài liệu
 Bước 1: File tài liệu phải là định dạng .md
@@ -17,5 +18,6 @@ Hỗ trợ quản lý danh sách chức năng: https://yte-tiengiang.vnpthis.vn/
 
 Hỗ trợ quản lý tài liệu: https://github.com/trongdqtgg/module_noitru
 
+![enter image description here](https://i.imgur.com/yOFfMjf.png)
 ## Lưu ý
 Khi viết paragraph khi có xuống dòng thì enter 2 lần giúp để đồng bộ tài liệu
