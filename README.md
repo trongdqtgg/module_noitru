@@ -1,7 +1,7 @@
 
 # MODULE NỘI TRÚ XIN CHÀO
 ## Hướng dẫn viết, commit tài liệu, quản lý tài liệu theo version
-Bước 1: Vào stackedit viết tài liệu định dạng .md và .html with TOC (Nhớ xem phần lưu ý, các công cụ phía dưới) 
+Bước 1: Vào stackedit viết tài liệu định dạng [linkchucnang].md và [linkchucnang].html with TOC (Nhớ xem phần lưu ý, các công cụ phía dưới) 
 
 Bước 2: Tạo branch, commit lên branch
 
