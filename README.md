@@ -1,6 +1,6 @@
 
 # MODULE NỘI TRÚ XIN CHÀO
-## Hướng dẫn viết, commit tài liệu, quản lý tài liệu theo version
+## Hướng dẫn viết, commit tài liệu
 Bước 1: Vào stackedit viết tài liệu định dạng [linkchucnang].md và [linkchucnang].html with TOC (Nhớ xem phần lưu ý, các công cụ phía dưới) 
 
 Bước 2: Tạo branch, commit lên branch
@@ -14,7 +14,7 @@ Hỗ trợ viết markdown: [https://stackedit.io/](https://stackedit.io/). Ti�
 
 Hỗ trợ upload hình ảnh: https://imgur.com/. Sử dụng để link hình ảnh trực tiếp vào markdown
 
-Hỗ trợ quản lý danh sách chức năng: https://yte-tiengiang.vnpthis.vn/web_his/version. Quản lý theo version, thống kê được danh sách chức năng, danh sách đường dẫn tài liệu
+Doc danh sách chức năng: https://docs.google.com/spreadsheets/d/1KmONCujJutKElM-5uMJt47lINNW5A9g7gNam8xprgxU/edit#gid=2105207601
 
 Hỗ trợ quản lý tài liệu: https://github.com/trongdqtgg/module_noitru
 
