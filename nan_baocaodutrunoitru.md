@@ -10,5 +10,5 @@
 
 
 ## Mẫu report
-[Imgur](https://i.imgur.com/vtT25M9.png)
-[Imgur](https://i.imgur.com/B8GQ3PV.png)
+<a href="https://imgur.com/vtT25M9"><img src="https://i.imgur.com/vtT25M9.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/B8GQ3PV"><img src="https://i.imgur.com/B8GQ3PV.png" title="source: imgur.com" /></a>
