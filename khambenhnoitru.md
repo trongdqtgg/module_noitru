@@ -169,7 +169,7 @@ Mục đích áp dụng chức năng
 Cấu hình tham số
 
 	40095 - Cảnh báo lấy dữ liệu thuốc từ ngoại trú = 1
-	
+
 	40096 - Cảnh báo lấy dữ liệu thuốc từ ngoại trú = 3
 
 Cấu hình report mẫu
@@ -181,6 +181,8 @@ Hướng dẫn thao tác
 	Vào tiepnhanbenhnhan --> Thực hiện chỉ định thuốc, cận lâm sàng --> Nhập viện
 
 	Nếu BN chưa được lấy dữ liệu từ ngoại trú vào nội trú thì khi lưu tờ điều trị sẽ xuất hiện cảnh báo
+
+Yêu cầu thay đổi
 
 | Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
 | -- | -- | -- | -- |
