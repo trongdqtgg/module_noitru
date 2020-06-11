@@ -6,7 +6,13 @@ Nội dung văn bản
 Nội dung văn bản
 ## Mục 3
 Nội dung văn bản
-# Phụ lục cấu hình hệ thống
+# Cấu hình thay đổi
+## Danh sách yêu cầu
+
+| Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
+| -- | -- | -- | -- |
+| https://cntt.vnpt.vn/browse/TGGDEV-57468 | 11/06/2020 | develop | NAN |
+
 ## Nhập cân nặng cho thẻ TE dưới 1 tuổi chỉ cần nhập cân nặng ở phiếu vào viện khi nhập viện
 
 Mô tả chi tiết chức năng
@@ -32,6 +38,11 @@ Hướng dẫn thao tác
 	Bước 2: Nhập các thông tin khám chữa bệnh
 
 	Bước 3 : Vào nội trú Chọn bệnh nhân, chuột phải vào phiếu điều trị, chọn lấy dữ liệu phiếu KB
+
+Yêu cầu thay đổi
+    | Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
+    | -- | -- | -- | -- |
+    | https://cntt.vnpt.vn/browse/TGGDEV-57468 | 11/06/2020 | develop | NAN |
 
 ## Thêm giờ chỉ định vào chỉ định thủ thuật form khám bệnh BANT
 
