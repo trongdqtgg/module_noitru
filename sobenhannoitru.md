@@ -11,11 +11,3 @@
 
 ## Mẫu report
 <a href="https://imgur.com/5iB4Luk"><img src="https://i.imgur.com/5iB4Luk.png" title="source: imgur.com" /></a>
-
-	
- 
-		
-
-
-
-
