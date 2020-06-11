@@ -17,4 +17,4 @@
 
 ## Danh sách yêu cầu
 
-|https://cntt.vnpt.vn/browse/TGGDEV-65901|11/06/2020|
+|TGGDEV-65901|11/06/2020|
