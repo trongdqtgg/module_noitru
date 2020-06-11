@@ -7,11 +7,6 @@ Nội dung văn bản
 ## Mục 3
 Nội dung văn bản
 # Cấu hình thay đổi
-## Danh sách yêu cầu
-
-| Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
-| -- | -- | -- | -- |
-| https://cntt.vnpt.vn/browse/TGGDEV-57468 | 11/06/2020 | develop | NAN |
 
 ## Nhập cân nặng cho thẻ TE dưới 1 tuổi chỉ cần nhập cân nặng ở phiếu vào viện khi nhập viện
 
