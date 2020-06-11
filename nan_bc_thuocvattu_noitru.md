@@ -17,6 +17,6 @@
 
 ## Danh sách yêu cầu
 
-| Mã yêu cầu | Ngày thay đổi  |
+| Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
 |--|--|
-| https://cntt.vnpt.vn/browse/TGGDEV-65901 | 11/06/2020 |
+| https://cntt.vnpt.vn/browse/TGGDEV-65901 | 11/06/2020 | develop | NAN |
