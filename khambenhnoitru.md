@@ -1,11 +1,9 @@
 ﻿ # Chức năng /khambenhnoitru
-Nội dung văn bản
+
 ## Mục 1
+
 Nội dung văn bản
-## Mục 2
-Nội dung văn bản
-## Mục 3
-Nội dung văn bản
+
 # Cấu hình thay đổi
 
 ## Nhập cân nặng cho thẻ TE dưới 1 tuổi chỉ cần nhập cân nặng ở phiếu vào viện khi nhập viện
