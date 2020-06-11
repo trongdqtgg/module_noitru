@@ -15,6 +15,6 @@
 
 # Cấu hình thay đổi
 
-## Yêu cầu
+## Danh sách yêu cầu
 
-https://cntt.vnpt.vn/browse/TGGDEV-65901
+|https://cntt.vnpt.vn/browse/TGGDEV-65901|11/06/2020|
