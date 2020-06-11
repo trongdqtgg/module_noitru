@@ -14,7 +14,7 @@ Hỗ trợ viết markdown: [https://stackedit.io/](https://stackedit.io/). Ti�
 
 Hỗ trợ upload hình ảnh: https://imgur.com/. Sử dụng để link hình ảnh trực tiếp vào markdown
 
-Doc danh sách chức năng: https://docs.google.com/spreadsheets/d/1KmONCujJutKElM-5uMJt47lINNW5A9g7gNam8xprgxU/edit#gid=2105207601
+Doc danh sách chức năng: https://docs.google.com/spreadsheets/d/1MLMKIcho7iJYBRtF4CZpFQfpUUZzsumekmUZYbMgD0c/edit#gid=0
 
 Hỗ trợ quản lý tài liệu: https://github.com/trongdqtgg/module_noitru
 
