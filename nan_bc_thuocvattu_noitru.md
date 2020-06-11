@@ -17,4 +17,6 @@
 
 ## Danh sách yêu cầu
 
-|TGGDEV-65901|11/06/2020|
+| Mã yêu cầu | Ngày thay đổi  |
+|--|--|
+| https://cntt.vnpt.vn/browse/TGGDEV-65901 | 11/06/2020 |
