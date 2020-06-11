@@ -40,9 +40,9 @@ Hướng dẫn thao tác
 	Bước 3 : Vào nội trú Chọn bệnh nhân, chuột phải vào phiếu điều trị, chọn lấy dữ liệu phiếu KB
 
 Yêu cầu thay đổi
-    | Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
-    | -- | -- | -- | -- |
-    | https://cntt.vnpt.vn/browse/TGGDEV-57468 | 11/06/2020 | develop | NAN |
+| Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
+| -- | -- | -- | -- |
+| https://cntt.vnpt.vn/browse/TGGDEV-57468 | 11/06/2020 | develop | NAN |
 
 ## Thêm giờ chỉ định vào chỉ định thủ thuật form khám bệnh BANT
 
