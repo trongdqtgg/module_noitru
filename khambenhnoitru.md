@@ -182,6 +182,8 @@ Hướng dẫn thao tác
 
 	Nếu BN chưa được lấy dữ liệu từ ngoại trú vào nội trú thì khi lưu tờ điều trị sẽ xuất hiện cảnh báo
 
+<a href="https://imgur.com/mB2KEr3"><img src="https://i.imgur.com/mB2KEr3.png" title="source: imgur.com" /></a>
+
 Yêu cầu thay đổi
 
 | Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
