@@ -189,3 +189,38 @@ Yêu cầu thay đổi
 | Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
 | -- | -- | -- | -- |
 | https://cntt.vnpt.vn/browse/TGGDEV-64389 | 11/06/2020 | Develop | NAN |
+
+## Điều chỉnh in toa thuốc đông y nội trú
+
+Mô tả chi tiết chức năng
+
+	1. Điều chỉnh chữ than hiếu chữ g
+
+    2. Thang thuốc có 3 thang nhưng khi bấm in ra thì thiếu số Gam nhân với số thang ra tổng Số lượng
+	
+Mục đích áp dụng chức năng
+
+	In toa thuốc đông y nội trú
+
+Cấu hình tham số
+
+	40095 - Cảnh báo lấy dữ liệu thuốc từ ngoại trú = 1
+
+	40096 - Cảnh báo lấy dữ liệu thuốc từ ngoại trú = 3
+
+Cấu hình report mẫu
+
+	89044: /WEB-INF/pages/nghean/rp_noitru_toadongy_thangthuoc.jasper
+
+Hướng dẫn thao tác
+
+	Vào khambenhnoitru --> Kê tab toa đông y --> In toa thuốc
+
+<a href="https://imgur.com/G5pu2K2"><img src="https://i.imgur.com/G5pu2K2.png" title="source: imgur.com" /></a>
+
+Yêu cầu thay đổi
+
+| Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
+| -- | -- | -- | -- |
+| https://cntt.vnpt.vn/browse/TGGDEV-61142 | 11/06/2020 | Develop | NAN |
+
