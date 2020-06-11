@@ -12,3 +12,6 @@
 ## Mẫu report
 <a href="https://imgur.com/hl3Tf90"><img src="https://i.imgur.com/hl3Tf90.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/4F0VnGA"><img src="https://i.imgur.com/4F0VnGA.png" title="source: imgur.com" /></a>
+
+## Yêu cầu thay đổi
+https://cntt.vnpt.vn/browse/TGGDEV-65901
