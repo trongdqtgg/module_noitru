@@ -1,8 +1,16 @@
 ﻿ # Chức năng /khambenhnoitru
 
-## Mục 1
+## Chức năng chung
 
-Nội dung văn bản
+Khởi tạo quản lý hồ bệnh án nội trú
+
+Khởi tạo quản lý vỏ bệnh án chuyên khoa
+
+Nhập thông tin khám bệnh theo phiếu điều trị
+
+Hướng giải quyết: Xuất viện chuyển tuyến chuyển phòng, ...
+
+In ấn các mẫu phiếu phục vụ công tác khám chữa bệnh tại đơn vị
 
 # Cấu hình thay đổi
 
