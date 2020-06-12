@@ -1,4 +1,5 @@
-﻿﻿# Chức năng /khambenhnoitru
+﻿﻿
+# Cấu hình thay đổi
 
 ## Chức năng chung
 
