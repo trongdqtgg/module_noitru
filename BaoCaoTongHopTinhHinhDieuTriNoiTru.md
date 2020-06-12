@@ -55,11 +55,17 @@ Hướng dẫn thao tác
 > Lưu ý có thông nhất công thức của 2 cột "Bệnh nhân dịch vụ" và cột "Còn lại": BN cũ + Vào viện – Chuyển tuyến – Chuyển khoa đi + Chuyển khoa đến – Tử vong - Xuất viện - Kết thúc đợt điều trị
 
 Cách lấy số liệu
-| Mã yêu cầu | Ngày thay đổi  | Release |
+| STT | Cột  | Mô tả |
 | -- | -- | -- |
-| 1 | BN cũ | Số lượng BN đang điều trị (chưa xuất viện, chuyển khoa) tới 23:59 ngày kiểm tra  - 1 
-+ Mới vào khoa, 1 điều trị có giường, 2 điều trị không giường : ngay_nhapvien < NgàyKT 
-+ 3 xuất viện, 4 chuyển viện, 5 tử vong, 6 trốn viện : ngay_nhapvien < NgàyKT và ngayravien > NgàyKT |
+| 1 | BN cũ | Số lượng BN đang điều trị (chưa xuất viện, chuyển khoa) [tới 23:59 ngày kiểm tra  - 1] // Mới vào khoa, 1 điều trị có giường, 2 điều trị không giường : ngay_nhapvien < NgàyKT // 3 xuất viện, 4 chuyển viện, 5 tử vong, 6 trốn viện : ngay_nhapvien < NgàyKT và ngayravien > NgàyKT |
+| 2 | Vào viện | Số lượng BN nhập viện từ 00:00 đến 23:59 ngày kiểm tra //	mới vào khoa, 1 điều trị có giường, 2 điều trị không giường : ngay_nhapvien = NgàyKT //	3 xuất viện, 4 chuyển viện, 5 tử vong, 6 trốn viện : ngay_nhapvien = NgàyKT |
+| 3 | Xuất viện | Số lượng BN xuất viện từ 00:00 đến 23:59 ngày kiểm tra: 3 xuất viện: ngay_ra = NgàyKT |
+| 4 | Chuyển tuyến | Số lượng BN chuyển tuyến từ 00:00 đến 23:59 ngày kiểm tra: 4 chuyển viện: ngay_ra = NgàyKT |
+| 5 | Tử vong | Số lượng BN tử vong từ 00:00 đến 23:59 ngày kiểm tra //	5 tử vong: ngay_ra = NgàyKT |
+| 6 | Chuyển khoa đi | Số lượng BN chuyển khoa đi từ 00:00 đến 23:59 ngày kiểm tra // 8 chuyển khoa đi: ngay_chuyendi= NgàyKT |
+| 7 | Chuyển khoa đến | Số lượng BN chuyển khoa đến từ 00:00 đến 23:59 ngày kiểm tra // chuyển khoa đến: ngay_chuyenden= NgàyKT |
+| 8 | BN dich vụ | Số BN dịch vụ : Số BN dịch vụ đang điều trị: Không bảo hiểm // (BN cũ + Vào viện – Chuyển tuyến – Chuyển khoa đi + Chuyển khoa đến – Tử vong) |
+| 9 | Còn lại( điều chỉnh lại để lấy được số liệu chính xác) | Còn lại: BN cũ + Vào viện – Chuyển tuyến – Chuyển khoa đi + Chuyển khoa đến – Tử vong - Xuất viện - Kết thúc đợt điều trị |
 
 Yêu cầu thay đổi
 
