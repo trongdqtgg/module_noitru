@@ -2,33 +2,11 @@
 
 ## Chức năng chung
 
-Khởi tạo quản lý hồ bệnh án ngoại trú
+Báo cáo tổng hợp tình hình điều trị tại khoa, phòng 
 
-Khởi tạo quản lý vỏ bệnh án ngoại trú
+Thống kê tại Phòng Kế hoạch tổng hợp hoặc Khoa điều trị
 
-Nhập thông tin khám bệnh theo phiếu điều trị
-
-Hướng giải quyết: Xuất viện chuyển tuyến chuyển phòng, ...
-
-In ấn các mẫu phiếu phục vụ công tác khám chữa bệnh tại đơn vị
-
-# Cấu hình thay đổi
-
-## In phiếu điều trị BANT
-
-Mô tả chi tiết chức năng
-
-	In phiếu điều trị BANT
-
-Mục đích áp dụng chức năng
-
-	In phiếu điều trị cho bệnh nhân khám bệnh án ngoại trú
-
-Cấu hình tham số
-
-	chưa có
-
-Cấu hình report mẫu
+## Cấu hình report mẫu
 
 	82047: Mẫu tổng hợp tiêu đề lập lại PDF. Đường dẫn mặc định "/WEB-INF/pages/BaoCaoNoiTru/BaoCaoTongHopTinhHinhDieuTriNoiTru/BaoCaoTongHopTinhHinhDieuTriNoiTruReports/BaoCaoTongHopTinhHinhDieuTriNoiTru.jasper"
 
@@ -43,7 +21,7 @@ Cấu hình report mẫu
 	82055: Mẫu chi tiết XLSX. Đường dẫn mặc định "/WEB-INF/pages/BaoCaoNoiTru/BaoCaoTongHopTinhHinhDieuTriNoiTru/BaoCaoTongHopTinhHinhDieuTriNoiTruReports/BaoCaoChiTietTinhHinhDieuTriNoiTru.jasper"
 <a href="https://imgur.com/yvrCnOR"><img src="https://i.imgur.com/yvrCnOR.png" title="source: imgur.com" /></a>
 
-Hướng dẫn thao tác
+## Hướng dẫn thao tác
 
 	Bước 1: vào link chức năng: BaoCaoTongHopTinhHinhDieuTriNoiTru
 	Bước 2: Chọn ngày để lấy báo cáo
@@ -54,7 +32,7 @@ Hướng dẫn thao tác
 
 > Lưu ý có thông nhất công thức của 2 cột "Bệnh nhân dịch vụ" và cột "Còn lại": BN cũ + Vào viện – Chuyển tuyến – Chuyển khoa đi + Chuyển khoa đến – Tử vong - Xuất viện - Kết thúc đợt điều trị
 
-Cách lấy số liệu
+## Cách lấy số liệu
 | STT | Cột  | Mô tả |
 | -- | -- | -- |
 | 1 | BN cũ | Số lượng BN đang điều trị (chưa xuất viện, chuyển khoa) [tới 23:59 ngày kiểm tra  - 1] // Mới vào khoa, 1 điều trị có giường, 2 điều trị không giường : ngay_nhapvien < NgàyKT // 3 xuất viện, 4 chuyển viện, 5 tử vong, 6 trốn viện : ngay_nhapvien < NgàyKT và ngayravien > NgàyKT |
@@ -67,8 +45,11 @@ Cách lấy số liệu
 | 8 | BN dich vụ | Số BN dịch vụ : Số BN dịch vụ đang điều trị: Không bảo hiểm // (BN cũ + Vào viện – Chuyển tuyến – Chuyển khoa đi + Chuyển khoa đến – Tử vong) |
 | 9 | Còn lại( điều chỉnh lại để lấy được số liệu chính xác) | Còn lại: BN cũ + Vào viện – Chuyển tuyến – Chuyển khoa đi + Chuyển khoa đến – Tử vong - Xuất viện - Kết thúc đợt điều trị |
 
+
+# Cấu hình thay đổi
+
 Yêu cầu thay đổi
 
 | Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
 | -- | -- | -- | -- |
-| https://cntt.vnpt.vn/browse/TGGDEV-71856 | 11/06/2020 | develop | HNI |
+| https://cntt.vnpt.vn/browse/TGGDEV-57629 | 11/06/2020 | develop | BGG |
