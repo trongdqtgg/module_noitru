@@ -13,9 +13,44 @@ Hướng giải quyết: Xuất viện chuyển tuyến chuyển phòng, ...
 In ấn các mẫu phiếu phục vụ công tác khám chữa bệnh tại đơn vị
 
 # Cấu hình thay đổi
+## Form xuất viện nội trú
 
+	(*) Kết quả điều trị
+	Cấu hình tham số 400151 - Sắp xếp kết quả điều trị nội trú STG = 1 
+	Thêm danh mục dùng chung: noitru_ketquadieutri where dvtt = p_dvtt
+	Áp dụng riêng cho STG
+
+## Cấp giường nội trú
+Mô tả chi tiết chức năng
+
+	Cấp giường cho bệnh nhân nội trú
+
+Mục đích áp dụng chức năng
+
+	
+
+Cấu hình tham số
+
+	Set 31701227608  = 1
+
+Cấu hình report mẫu
+
+	Sử dụng rp hiện tại của đơn vị, không cần cấu hình
+
+Hướng dẫn thao tác
+
+	Bước 1: Vào nội trú -> Tiếp nhận nội trú -> Nhập bệnh nhân ->Tạo phiếu khám bệnh
+
+	Bước 2: Nhập các thông tin khám chữa bệnh
+
+	Bước 3 : Vào nội trú Chọn bệnh nhân, chuột phải vào phiếu điều trị, chọn lấy dữ liệu phiếu KB
+
+Yêu cầu thay đổi
+
+| Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
+| -- | -- | -- | -- |
+| https://cntt.vnpt.vn/browse/TGGDEV-57468 | 11/06/2020 | develop | NAN |
 ## Lấy chỉ số sinh tồn từ phiếu khám bệnh
-cân nặng cho thẻ TE dưới 1 tuổi chỉ cần nhập cân nặng ở phiếu vào viện khi nhập viện
 
 Mô tả chi tiết chức năng
 
