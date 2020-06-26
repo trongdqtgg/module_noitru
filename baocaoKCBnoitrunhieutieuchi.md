@@ -18,15 +18,15 @@
 ## Thêm cách chọn ngày lấy báo cáo
 
 	Yêu cầu thay đổi
-
-	| Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
-	| -- | -- | -- | -- |
-	| https://cntt.vnpt.vn/browse/EHEALTHCR-19223 |  |  |  |
+	
+| Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
+| -- | -- | -- | -- |
+| https://cntt.vnpt.vn/browse/EHEALTHCR-19223 |  |  |  |
 		
 ## Cho chọn nhiều phòng khám
 
 Yêu cầu thay đổi
 
-	| Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
-	| -- | -- | -- | -- |
-	| https://cntt.vnpt.vn/browse/IT360-104144 |  |  |  |
+| Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
+| -- | -- | -- | -- |
+| https://cntt.vnpt.vn/browse/IT360-104144 |  |  |  |
