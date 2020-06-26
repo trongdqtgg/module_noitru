@@ -1,4 +1,4 @@
-﻿ # Chức năng /khambenhnoitru
+ # Chức năng /khambenhnoitru
 
 ## Chức năng chung
 
@@ -13,8 +13,44 @@ Hướng giải quyết: Xuất viện chuyển tuyến chuyển phòng, ...
 In ấn các mẫu phiếu phục vụ công tác khám chữa bệnh tại đơn vị
 
 # Cấu hình thay đổi
+## Form xuất viện nội trú
 
-## Nhập cân nặng cho thẻ TE dưới 1 tuổi chỉ cần nhập cân nặng ở phiếu vào viện khi nhập viện
+	(*) Kết quả điều trị
+	Cấu hình tham số 400151 - Sắp xếp kết quả điều trị nội trú STG = 1 
+	Thêm danh mục dùng chung: noitru_ketquadieutri where dvtt = p_dvtt
+	Áp dụng riêng cho STG
+
+## Cấp giường nội trú
+Mô tả chi tiết chức năng
+
+	Cấp giường cho bệnh nhân nội trú
+
+Mục đích áp dụng chức năng
+
+	
+
+Cấu hình tham số
+
+	Set 31701227608  = 1
+
+Cấu hình report mẫu
+
+	Sử dụng rp hiện tại của đơn vị, không cần cấu hình
+
+Hướng dẫn thao tác
+
+	Bước 1: Vào nội trú -> Tiếp nhận nội trú -> Nhập bệnh nhân ->Tạo phiếu khám bệnh
+
+	Bước 2: Nhập các thông tin khám chữa bệnh
+
+	Bước 3 : Vào nội trú Chọn bệnh nhân, chuột phải vào phiếu điều trị, chọn lấy dữ liệu phiếu KB
+
+Yêu cầu thay đổi
+
+| Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
+| -- | -- | -- | -- |
+| https://cntt.vnpt.vn/browse/TGGDEV-57468 | 11/06/2020 | develop | NAN |
+## Lấy chỉ số sinh tồn từ phiếu khám bệnh
 
 Mô tả chi tiết chức năng
 
@@ -197,6 +233,40 @@ Yêu cầu thay đổi
 | https://cntt.vnpt.vn/browse/TGGDEV-64389 | 11/06/2020 | Develop | NAN |
 
 ## Điều chỉnh in toa thuốc đông y nội trú
+
+Mô tả chi tiết chức năng
+
+	1. Điều chỉnh chữ than hiếu chữ g
+
+    2. Thang thuốc có 3 thang nhưng khi bấm in ra thì thiếu số Gam nhân với số thang ra tổng Số lượng
+	
+Mục đích áp dụng chức năng
+
+	In toa thuốc đông y nội trú
+
+Cấu hình tham số
+
+	40095 - Cảnh báo lấy dữ liệu thuốc từ ngoại trú = 1
+
+	40096 - Cảnh báo lấy dữ liệu thuốc từ ngoại trú = 3
+
+Cấu hình report mẫu
+
+	89044: /WEB-INF/pages/nghean/rp_noitru_toadongy_thangthuoc.jasper
+
+Hướng dẫn thao tác
+
+	Vào khambenhnoitru --> Kê tab toa đông y --> In toa thuốc
+
+<a href="https://imgur.com/G5pu2K2"><img src="https://i.imgur.com/G5pu2K2.png" title="source: imgur.com" /></a>
+
+Yêu cầu thay đổi
+
+| Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
+| -- | -- | -- | -- |
+| https://cntt.vnpt.vn/browse/TGGDEV-61142 | 11/06/2020 | Develop | NAN |
+
+## Form chỉ định CLS (L2-BGG)
 
 Mô tả chi tiết chức năng
 
