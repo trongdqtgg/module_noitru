@@ -24,7 +24,7 @@
 
 	Yêu cầu thay đổi
 
-	| Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
-	| -- | -- | -- | -- |
-	| https://cntt.vnpt.vn/browse/EHEALTHCR-22163 |  |  |  |
+| Mã yêu cầu | Ngày thay đổi  | Release | Tỉnh đang sử dụng |
+| -- | -- | -- | -- |
+| https://cntt.vnpt.vn/browse/EHEALTHCR-22163 |  |  |  |
 		
