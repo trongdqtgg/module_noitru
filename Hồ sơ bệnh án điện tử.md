@@ -10,5 +10,10 @@ Lưu ý: Chức năng chỉ tra cứu được các bệnh nhân đã có tạo 
 <a href="https://imgur.com/IQpJbed"><img src="https://i.imgur.com/IQpJbed.png" title="source: imgur.com" /></a>
 ## 1.3. Form hiển thị “Thông tin hành chính cơ bản”
 Chức năng thực hiện nhằm mục đích hiển thị thông tin hành chính cơ bản của bệnh nhân.
+<a href="https://imgur.com/iytSuGV"><img src="https://i.imgur.com/iytSuGV.png" title="source: imgur.com" /></a>
 ## 1.4. Chức năng “Chi tiết thông tin hành chính”
 Chức năng thực hiện nhằm mục đích hiển thị chi tiết thông tin hành của bệnh nhân.
+<a href="https://imgur.com/ORJYw8w"><img src="https://i.imgur.com/ORJYw8w.png" title="source: imgur.com" /></a>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTgyMDY3MTE3Ml19
+-->
