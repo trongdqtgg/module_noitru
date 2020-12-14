@@ -29,8 +29,11 @@ Chức năng thực hiện nhằm mục đích.
 Chức năng thực hiện nhằm mục đích.
 <a href="https://imgur.com/Kq0c14B"><img src="https://i.imgur.com/Kq0c14B.png" title="source: imgur.com" /></a>
 ### 2.2.4. Phiếu khám bệnh vào viện chuyên khoa TMH
-
+Chức năng thực hiện nhằm mục đích.
+<a href="https://imgur.com/VHXhWYY"><img src="https://i.imgur.com/VHXhWYY.png" title="source: imgur.com" /></a>
 ### 2.2.5. Phiếu khám bệnh vào viện chuyên khoa Tâm Thần
+Chức năng thực hiện nhằm mục đích.
+<a href="https://imgur.com/h9J5XSr"><img src="https://i.imgur.com/h9J5XSr.png" title="source: imgur.com" /></a>
 # 3. Nhóm “Vỏ bệnh án”
 ## 3.1. Chức năng “BA nội khoa” [Nội trú]
 
@@ -150,7 +153,7 @@ Chức năng thực hiện nhằm mục đích.
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzM5MTY3OCwyNzQ4MjY0MjYsNTQ3OT
-c3MTgwLDE3Nzc3MDQ2NiwtMTM3NzI4MDg3MywxODIwNjcxMTcy
-XX0=
+eyJoaXN0b3J5IjpbLTE1NzI1NDU5NDAsMjc0ODI2NDI2LDU0Nz
+k3NzE4MCwxNzc3NzA0NjYsLTEzNzcyODA4NzMsMTgyMDY3MTE3
+Ml19
 -->
