@@ -17,6 +17,35 @@ Chức năng thực hiện nhằm mục đích hiển thị chi tiết thông ti
 # 2. Nhóm “Thông tin hành chính + Phiếu KB vào viện”
 ## 2.1. Chức năng “Thông tin hành chính chi tiết”
 ## 2.2. Chức năng “Phiếu khám bệnh vào viện”
+# 3. Nhóm “Vỏ bệnh án”
+## 3.1. Chức năng “BA nội khoa” [Nội trú]
+
+3.2. Chức năng “BA hồi sức cấp cứu” [Nội trú]
+
+3.3. Chức năng “BA ngoại khoa” [Nội trú]
+
+3.4. Chức năng “BA nhi khoa” [Nội trú]
+
+3.5. Chức năng “BA nhiễm khoa [Nội trú]”
+
+3.6. Chức năng “BA phụ khoa” [Nội trú]
+
+3.7. Chức năng “BA sản khoa” [Nội trú]
+
+3.8. Chức năng “BA sơ sinh” [Nội trú]
+
+3.9. Chức năng “BA tâm thần” [Nội trú]
+
+3.10. Chức năng “BA y học cổ truyền 1941” [Nội trú]
+
+3.11. Chức năng “BA y học cổ truyền nhi” [Nội trú]
+
+3.12. Chức năng “BA tai mũi họng” [Nội trú]
+
+3.13. Chức năng “BA răng hàm mặt” [Nội trú]
+
+3.14. Chức năng “BA da liễu” [Nội trú]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzcyODA4NzMsMTgyMDY3MTE3Ml19
+eyJoaXN0b3J5IjpbLTE4Njk0MzQ5NjIsLTEzNzcyODA4NzMsMT
+gyMDY3MTE3Ml19
 -->
