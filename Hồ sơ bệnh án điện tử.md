@@ -102,7 +102,40 @@ Chức năng thực hiện nhằm mục đích hiển thị chi tiết thông ti
 ## 5.17. Chức năng “Phiếu chứng nhận nằm viện”
 
 ## 5.18. Chức năng “Phiếu thực hiện y lệnh”
+# 6. Nhóm “Thuốc vật tư y tế”
+
+## 6.1. Chức năng “Toa thuốc”
+
+## 6.2. Chức năng “Toa vật tư”
+
+## 6.3. Chức năng “Gói vật tư”
+
+## 6.4. Chức năng “Toa đông y”
+
+## 6.5. Chức năng “Toa miễn phí”
+
+## 6.6. Chức năng “Toa mua ngoài”
+
+## 6.7. Chức năng “Toa mua tại quầy”
+
+## 6.8. Chức năng “Toa mua trẻ em”
+
+# 7. Nhóm “Bảng kê”
+
+## 7.1. Chức năng “In bảng kê”
+
+## 7.2. Chức năng “In bảng kê trong danh mục”
+
+## 7.3. Chức năng “In bảng kê ngoài danh mục”
+
+## 7.4. Chức năng “In bảng kê gói dịch vụ”
+
+## 7.5. Chức năng “In bảng kê hao phí mổ”
+
+## 7.6. Chức năng “In bảng kê hao phí khoa”
+
+## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2MjI2NjAzLC0xMzc3MjgwODczLDE4Mj
+eyJoaXN0b3J5IjpbMTc3NzcwNDY2LC0xMzc3MjgwODczLDE4Mj
 A2NzExNzJdfQ==
 -->
