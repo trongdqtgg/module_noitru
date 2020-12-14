@@ -20,32 +20,89 @@ Chức năng thực hiện nhằm mục đích hiển thị chi tiết thông ti
 # 3. Nhóm “Vỏ bệnh án”
 ## 3.1. Chức năng “BA nội khoa” [Nội trú]
 
-3.2. Chức năng “BA hồi sức cấp cứu” [Nội trú]
+## 3.2. Chức năng “BA hồi sức cấp cứu” [Nội trú]
 
-3.3. Chức năng “BA ngoại khoa” [Nội trú]
+## 3.3. Chức năng “BA ngoại khoa” [Nội trú]
 
-3.4. Chức năng “BA nhi khoa” [Nội trú]
+## 3.4. Chức năng “BA nhi khoa” [Nội trú]
 
-3.5. Chức năng “BA nhiễm khoa [Nội trú]”
+## 3.5. Chức năng “BA nhiễm khoa [Nội trú]”
 
-3.6. Chức năng “BA phụ khoa” [Nội trú]
+## 3.6. Chức năng “BA phụ khoa” [Nội trú]
 
-3.7. Chức năng “BA sản khoa” [Nội trú]
+## 3.7. Chức năng “BA sản khoa” [Nội trú]
 
-3.8. Chức năng “BA sơ sinh” [Nội trú]
+## 3.8. Chức năng “BA sơ sinh” [Nội trú]
 
-3.9. Chức năng “BA tâm thần” [Nội trú]
+## 3.9. Chức năng “BA tâm thần” [Nội trú]
 
-3.10. Chức năng “BA y học cổ truyền 1941” [Nội trú]
+## 3.10. Chức năng “BA y học cổ truyền 1941” [Nội trú]
 
-3.11. Chức năng “BA y học cổ truyền nhi” [Nội trú]
+## 3.11. Chức năng “BA y học cổ truyền nhi” [Nội trú]
 
-3.12. Chức năng “BA tai mũi họng” [Nội trú]
+## 3.12. Chức năng “BA tai mũi họng” [Nội trú]
 
-3.13. Chức năng “BA răng hàm mặt” [Nội trú]
+## 3.13. Chức năng “BA răng hàm mặt” [Nội trú]
 
-3.14. Chức năng “BA da liễu” [Nội trú]
+## 3.14. Chức năng “BA da liễu” [Nội trú]
+# 4. Nhóm “Cận Lâm Sàng”
+## 4.1. Chức năng “Danh sách xét nghiệm”
+
+## 4.2. Chức năng “Danh sách siêu âm”
+
+## 4.3. Chức năng “Danh sách X-quang”
+
+## 4.4. Chức năng “Danh sách CT Scanner”
+
+## 4.5. Chức năng “Danh sách nội soi”
+
+## 4.6. Chức năng “Kết quả điện tim”
+
+## 4.7. Chức năng “Kết quả điện não”
+
+## 4.8. Chức năng “Kết quả đo hô hấp”
+
+## 4.9. Chức năng “Phiếu phẫu thuật”
+
+## 4.10. Chức năng “Phiếu thủ thuật”
+# 5. Nhóm “Điều trị”
+
+## 5.1. Chức năng “Phiếu điều trị”
+
+## 5.2. Chức năng “Phiếu chăm sóc”
+
+## 5.3. Chức năng “Phiếu sơ kết 15 ngày”
+
+## 5.4. Chức năng “Trích biên bản hội chẩn”
+
+## 5.5. Chức năng “Giấy cam đoan PTTT/ Gây mê hồi sức”
+
+## 5.6. Chức năng “In bảng khai DVKT”
+
+## 5.7. Chức năng “Phiếu công khai dịch vụ KCB (TT50)”
+
+## 5.8. Chức năng “Phiếu tổng hợp chi phí điều trị”
+
+## 5.9. Chức năng “Giấy ra viện”
+
+## 5.10. Chức năng “Giấy chứng nhận TTPT”
+
+## 5.11. Chức năng “Giấy chuyển tuyến”
+
+## 5.12. Chức năng “Giấy hẹn khám lại”
+
+## 5.13. Chức năng “Phiếu phản ứng thuốc”
+
+## 5.14. Chức năng “Phiếu theo dõi chức năng sống”
+
+## 5.15. Chức năng “Phiếu theo dõi truyền dịch”
+
+## 5.16. Chức năng “Phiếu chứng nhận dưỡng thai”
+
+## 5.17. Chức năng “Phiếu chứng nhận nằm viện”
+
+## 5.18. Chức năng “Phiếu thực hiện y lệnh”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk0MzQ5NjIsLTEzNzcyODA4NzMsMT
-gyMDY3MTE3Ml19
+eyJoaXN0b3J5IjpbNTc2MjI2NjAzLC0xMzc3MjgwODczLDE4Mj
+A2NzExNzJdfQ==
 -->
