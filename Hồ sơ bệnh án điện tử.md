@@ -22,7 +22,9 @@ Chức năng thực hiện nhằm mục đích.
 ### 2.2.1. Phiếu khám bệnh vào viện
 Chức năng thực hiện nhằm mục đích.
 <a href="https://imgur.com/8MvGTDo"><img src="https://i.imgur.com/8MvGTDo.png" title="source: imgur.com" /></a>
-### 2.2.2. 
+### 2.2.2. Phiếu khám bệnh vào viện chuyên khoa mắt
+### 2.2.3. Phiếu khám bệnh vào viện chuyên khoa RHM
+### 2.2.3. Phiếu khám bệnh vào viện chuyên khoa RHM
 # 3. Nhóm “Vỏ bệnh án”
 ## 3.1. Chức năng “BA nội khoa” [Nội trú]
 
@@ -142,7 +144,7 @@ Chức năng thực hiện nhằm mục đích.
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTcyMzE2NTMsMjc0ODI2NDI2LDU0Nz
-k3NzE4MCwxNzc3NzA0NjYsLTEzNzcyODA4NzMsMTgyMDY3MTE3
-Ml19
+eyJoaXN0b3J5IjpbMTA4ODM5NDY5NSwyNzQ4MjY0MjYsNTQ3OT
+c3MTgwLDE3Nzc3MDQ2NiwtMTM3NzI4MDg3MywxODIwNjcxMTcy
+XX0=
 -->
