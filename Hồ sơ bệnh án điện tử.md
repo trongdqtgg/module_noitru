@@ -16,7 +16,7 @@ Chức năng thực hiện nhằm mục đích hiển thị chi tiết thông ti
 <a href="https://imgur.com/ORJYw8w"><img src="https://i.imgur.com/ORJYw8w.png" title="source: imgur.com" /></a>
 # 2. Nhóm “Thông tin hành chính + Phiếu KB vào viện”
 ## 2.1. Chức năng “Thông tin hành chính chi tiết”
-
+Chức năng thực hiện nhằm mục đích.
 <a href="https://imgur.com/iGZuwAf"><img src="https://i.imgur.com/iGZuwAf.png" title="source: imgur.com" /></a>
 ## 2.2. Chức năng “Phiếu khám bệnh vào viện”
 # 3. Nhóm “Vỏ bệnh án”
@@ -138,6 +138,6 @@ Chức năng thực hiện nhằm mục đích hiển thị chi tiết thông ti
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTAyMDgzNTksMTc3NzcwNDY2LC0xMz
-c3MjgwODczLDE4MjA2NzExNzJdfQ==
+eyJoaXN0b3J5IjpbNTQ3OTc3MTgwLDE3Nzc3MDQ2NiwtMTM3Nz
+I4MDg3MywxODIwNjcxMTcyXX0=
 -->
