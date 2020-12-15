@@ -69,7 +69,7 @@ Chức năng thực hiện nhằm mục đích.
 ## 3.12. Chức năng “BA tai mũi họng” [Nội trú]
 <a href="https://imgur.com/2o23VlL"><img src="https://i.imgur.com/2o23VlL.png" title="source: imgur.com" /></a>
 ## 3.13. Chức năng “BA răng hàm mặt” [Nội trú]
-
+<a href="https://imgur.com/Yy0aNQR"><img src="https://i.imgur.com/Yy0aNQR.png" title="source: imgur.com" /></a>
 ## 3.14. Chức năng “BA da liễu” [Nội trú]
 <a href="https://imgur.com/redkTJi"><img src="https://i.imgur.com/redkTJi.png" title="source: imgur.com" /></a>
 # 4. Nhóm “Cận Lâm Sàng”
@@ -163,8 +163,8 @@ Chức năng thực hiện nhằm mục đích.
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyNDAyNTA5LDIxMzcyMjU1MzcsMzYyNT
-gxNDk2LC0xMTYxMTAxMzQsLTE1NzI1NDU5NDAsMjc0ODI2NDI2
-LDU0Nzk3NzE4MCwxNzc3NzA0NjYsLTEzNzcyODA4NzMsMTgyMD
-Y3MTE3Ml19
+eyJoaXN0b3J5IjpbLTExNDkyMTIxOTAsMjEzNzIyNTUzNywzNj
+I1ODE0OTYsLTExNjExMDEzNCwtMTU3MjU0NTk0MCwyNzQ4MjY0
+MjYsNTQ3OTc3MTgwLDE3Nzc3MDQ2NiwtMTM3NzI4MDg3MywxOD
+IwNjcxMTcyXX0=
 -->
