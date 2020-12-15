@@ -56,7 +56,8 @@ Chức năng thực hiện nhằm mục đích.
 ## 3.7. Chức năng “BA sản khoa” [Nội trú]
 
 ## 3.8. Chức năng “BA sơ sinh” [Nội trú]
-
+Chức năng thực hiện nhằm mục đích.
+<a href="https://imgur.com/Q1A0ynq"><img src="https://i.imgur.com/Q1A0ynq.png" title="source: imgur.com" /></a>
 ## 3.9. Chức năng “BA tâm thần” [Nội trú]
 
 ## 3.10. Chức năng “BA y học cổ truyền 1941” [Nội trú]
@@ -159,7 +160,7 @@ Chức năng thực hiện nhằm mục đích.
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyNTgxNDk2LC0xMTYxMTAxMzQsLTE1Nz
-I1NDU5NDAsMjc0ODI2NDI2LDU0Nzk3NzE4MCwxNzc3NzA0NjYs
-LTEzNzcyODA4NzMsMTgyMDY3MTE3Ml19
+eyJoaXN0b3J5IjpbLTU5NDA3NDA3NCwzNjI1ODE0OTYsLTExNj
+ExMDEzNCwtMTU3MjU0NTk0MCwyNzQ4MjY0MjYsNTQ3OTc3MTgw
+LDE3Nzc3MDQ2NiwtMTM3NzI4MDg3MywxODIwNjcxMTcyXX0=
 -->
