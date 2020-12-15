@@ -65,9 +65,9 @@ Chức năng thực hiện nhằm mục đích.
 ## 3.11. Chức năng “BA điều dưỡng và PHCN” [Nội trú]
 <a href="https://imgur.com/Efm0XIi"><img src="https://i.imgur.com/Efm0XIi.png" title="source: imgur.com" /></a>
 ## 3.11. Chức năng “BA y học cổ truyền nhi” [Nội trú]
-
+<a href="https://imgur.com/sMveEjk"><img src="https://i.imgur.com/sMveEjk.png" title="source: imgur.com" /></a>
 ## 3.12. Chức năng “BA tai mũi họng” [Nội trú]
-
+<a href="https://imgur.com/2o23VlL"><img src="https://i.imgur.com/2o23VlL.png" title="source: imgur.com" /></a>
 ## 3.13. Chức năng “BA răng hàm mặt” [Nội trú]
 
 ## 3.14. Chức năng “BA da liễu” [Nội trú]
@@ -163,7 +163,8 @@ Chức năng thực hiện nhằm mục đích.
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzIyNTUzNywzNjI1ODE0OTYsLTExNj
-ExMDEzNCwtMTU3MjU0NTk0MCwyNzQ4MjY0MjYsNTQ3OTc3MTgw
-LDE3Nzc3MDQ2NiwtMTM3NzI4MDg3MywxODIwNjcxMTcyXX0=
+eyJoaXN0b3J5IjpbNTMyNDAyNTA5LDIxMzcyMjU1MzcsMzYyNT
+gxNDk2LC0xMTYxMTAxMzQsLTE1NzI1NDU5NDAsMjc0ODI2NDI2
+LDU0Nzk3NzE4MCwxNzc3NzA0NjYsLTEzNzcyODA4NzMsMTgyMD
+Y3MTE3Ml19
 -->
