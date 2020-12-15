@@ -36,6 +36,8 @@ Chức năng thực hiện nhằm mục đích.
 <a href="https://imgur.com/h9J5XSr"><img src="https://i.imgur.com/h9J5XSr.png" title="source: imgur.com" /></a>
 # 3. Nhóm “Vỏ bệnh án”
 ## 3.1. Chức năng “BA nội khoa” [Nội trú]
+Chức năng thực hiện nhằm mục đích.
+<a href="https://imgur.com/NO6Os1O"><img src="https://i.imgur.com/NO6Os1O.png" title="source: imgur.com" /></a>
 
 ## 3.2. Chức năng “BA hồi sức cấp cứu” [Nội trú]
 
@@ -153,7 +155,7 @@ Chức năng thực hiện nhằm mục đích.
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI1NDU5NDAsMjc0ODI2NDI2LDU0Nz
-k3NzE4MCwxNzc3NzA0NjYsLTEzNzcyODA4NzMsMTgyMDY3MTE3
-Ml19
+eyJoaXN0b3J5IjpbLTE1NTUwMjM3OTQsLTE1NzI1NDU5NDAsMj
+c0ODI2NDI2LDU0Nzk3NzE4MCwxNzc3NzA0NjYsLTEzNzcyODA4
+NzMsMTgyMDY3MTE3Ml19
 -->
