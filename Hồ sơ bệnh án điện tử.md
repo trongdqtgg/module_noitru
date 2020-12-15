@@ -62,14 +62,16 @@ Chức năng thực hiện nhằm mục đích.
 <a href="https://imgur.com/WxWurLK"><img src="https://i.imgur.com/WxWurLK.png" title="source: imgur.com" /></a>
 ## 3.10. Chức năng “BA y học cổ truyền 1941” [Nội trú]
 <a href="https://imgur.com/HrduJlt"><img src="https://i.imgur.com/HrduJlt.png" title="source: imgur.com" /></a>
-## 3.11. Chức năng “BA y học cổ truyền nhi” [Nội trú]
-## 3.11. Chức năng “BA y học cổ truyền nhi” [Nội trú]
+## 3.11. Chức năng “BA điều dưỡng và PHCN” [Nội trú]
 <a href="https://imgur.com/Efm0XIi"><img src="https://i.imgur.com/Efm0XIi.png" title="source: imgur.com" /></a>
+## 3.11. Chức năng “BA y học cổ truyền nhi” [Nội trú]
+
 ## 3.12. Chức năng “BA tai mũi họng” [Nội trú]
 
 ## 3.13. Chức năng “BA răng hàm mặt” [Nội trú]
 
 ## 3.14. Chức năng “BA da liễu” [Nội trú]
+<a href="https://imgur.com/redkTJi"><img src="https://i.imgur.com/redkTJi.png" title="source: imgur.com" /></a>
 # 4. Nhóm “Cận Lâm Sàng”
 ## 4.1. Chức năng “Danh sách xét nghiệm”
 
@@ -161,7 +163,7 @@ Chức năng thực hiện nhằm mục đích.
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1ODI1NzcwLDM2MjU4MTQ5NiwtMTE2MT
-EwMTM0LC0xNTcyNTQ1OTQwLDI3NDgyNjQyNiw1NDc5NzcxODAs
-MTc3NzcwNDY2LC0xMzc3MjgwODczLDE4MjA2NzExNzJdfQ==
+eyJoaXN0b3J5IjpbMjEzNzIyNTUzNywzNjI1ODE0OTYsLTExNj
+ExMDEzNCwtMTU3MjU0NTk0MCwyNzQ4MjY0MjYsNTQ3OTc3MTgw
+LDE3Nzc3MDQ2NiwtMTM3NzI4MDg3MywxODIwNjcxMTcyXX0=
 -->
