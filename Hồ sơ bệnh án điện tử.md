@@ -55,7 +55,7 @@ Chức năng thực hiện nhằm mục đích.
 <a href="https://imgur.com/beL8sNW"><img src="https://i.imgur.com/beL8sNW.png" title="source: imgur.com" /></a>
 ## 3.7. Chức năng “BA sản khoa” [Nội trú]
 <a href="https://imgur.com/1PtPCZy"><img src="https://i.imgur.com/1PtPCZy.png" title="source: imgur.com" /></a>
-Cấu hình tham số hệ thống 
+Cấu hình tham số hệ thống: 82860482 - Bệnh án sản khoa = 1
 ## 3.8. Chức năng “BA sơ sinh” [Nội trú]
 Chức năng thực hiện nhằm mục đích.
 <a href="https://imgur.com/Q1A0ynq"><img src="https://i.imgur.com/Q1A0ynq.png" title="source: imgur.com" /></a>
@@ -69,10 +69,10 @@ Chức năng thực hiện nhằm mục đích.
 <a href="https://imgur.com/sMveEjk"><img src="https://i.imgur.com/sMveEjk.png" title="source: imgur.com" /></a>
 ## 3.12. Chức năng “BA tai mũi họng” [Nội trú]
 <a href="https://imgur.com/2o23VlL"><img src="https://i.imgur.com/2o23VlL.png" title="source: imgur.com" /></a>
-8286138 - Bệnh án Tai Mũi Họng = 1
+Cấu hình tham số hệ thống: 8286138 - Bệnh án Tai Mũi Họng = 1
 ## 3.13. Chức năng “BA răng hàm mặt” [Nội trú]
 <a href="https://imgur.com/Yy0aNQR"><img src="https://i.imgur.com/Yy0aNQR.png" title="source: imgur.com" /></a>
-Cấu hình tham số hệ thống 8286137 - Bệnh án Răng Hàm Mặt = 1
+Cấu hình tham số hệ thống: 8286137 - Bệnh án Răng Hàm Mặt = 1
 ## 3.14. Chức năng “BA da liễu” [Nội trú]
 <a href="https://imgur.com/redkTJi"><img src="https://i.imgur.com/redkTJi.png" title="source: imgur.com" /></a>
 # 4. Nhóm “Cận Lâm Sàng” 
@@ -166,9 +166,9 @@ Cấu hình tham số hệ thống 8286137 - Bệnh án Răng Hàm Mặt = 1
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5MzQ4MjUsLTE1NzE1NjQ0OCwtNDgxMj
-UyODE1LC02MjIxMzU3OTYsLTExNDkyMTIxOTAsMjEzNzIyNTUz
-NywzNjI1ODE0OTYsLTExNjExMDEzNCwtMTU3MjU0NTk0MCwyNz
-Q4MjY0MjYsNTQ3OTc3MTgwLDE3Nzc3MDQ2NiwtMTM3NzI4MDg3
-MywxODIwNjcxMTcyXX0=
+eyJoaXN0b3J5IjpbMTY3NDc4MDkxMywtMTU3MTU2NDQ4LC00OD
+EyNTI4MTUsLTYyMjEzNTc5NiwtMTE0OTIxMjE5MCwyMTM3MjI1
+NTM3LDM2MjU4MTQ5NiwtMTE2MTEwMTM0LC0xNTcyNTQ1OTQwLD
+I3NDgyNjQyNiw1NDc5NzcxODAsMTc3NzcwNDY2LC0xMzc3Mjgw
+ODczLDE4MjA2NzExNzJdfQ==
 -->
