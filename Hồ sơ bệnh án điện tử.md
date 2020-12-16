@@ -72,7 +72,7 @@ Chức năng thực hiện nhằm mục đích.
 <a href="https://imgur.com/Yy0aNQR"><img src="https://i.imgur.com/Yy0aNQR.png" title="source: imgur.com" /></a>
 ## 3.14. Chức năng “BA da liễu” [Nội trú]
 <a href="https://imgur.com/redkTJi"><img src="https://i.imgur.com/redkTJi.png" title="source: imgur.com" /></a>
-# 4. Nhóm “Cận Lâm Sàng”
+# 4. Nhóm “Cận Lâm Sàng” 
 ## 4.1. Chức năng “Danh sách xét nghiệm”
 
 ## 4.2. Chức năng “Danh sách siêu âm”
@@ -163,8 +163,8 @@ Chức năng thực hiện nhằm mục đích.
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDkyMTIxOTAsMjEzNzIyNTUzNywzNj
-I1ODE0OTYsLTExNjExMDEzNCwtMTU3MjU0NTk0MCwyNzQ4MjY0
-MjYsNTQ3OTc3MTgwLDE3Nzc3MDQ2NiwtMTM3NzI4MDg3MywxOD
-IwNjcxMTcyXX0=
+eyJoaXN0b3J5IjpbLTYyMjEzNTc5NiwtMTE0OTIxMjE5MCwyMT
+M3MjI1NTM3LDM2MjU4MTQ5NiwtMTE2MTEwMTM0LC0xNTcyNTQ1
+OTQwLDI3NDgyNjQyNiw1NDc5NzcxODAsMTc3NzcwNDY2LC0xMz
+c3MjgwODczLDE4MjA2NzExNzJdfQ==
 -->
