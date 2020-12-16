@@ -52,7 +52,7 @@ Chức năng thực hiện nhằm mục đích.
 Chức năng thực hiện nhằm mục đích.
 <a href="https://imgur.com/yt1ROPN"><img src="https://i.imgur.com/yt1ROPN.png" title="source: imgur.com" /></a>
 ## 3.6. Chức năng “BA phụ khoa” [Nội trú]
-
+<a href="https://imgur.com/beL8sNW"><img src="https://i.imgur.com/beL8sNW.png" title="source: imgur.com" /></a>
 ## 3.7. Chức năng “BA sản khoa” [Nội trú]
 
 ## 3.8. Chức năng “BA sơ sinh” [Nội trú]
@@ -163,8 +163,8 @@ Chức năng thực hiện nhằm mục đích.
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjEzNTc5NiwtMTE0OTIxMjE5MCwyMT
-M3MjI1NTM3LDM2MjU4MTQ5NiwtMTE2MTEwMTM0LC0xNTcyNTQ1
-OTQwLDI3NDgyNjQyNiw1NDc5NzcxODAsMTc3NzcwNDY2LC0xMz
-c3MjgwODczLDE4MjA2NzExNzJdfQ==
+eyJoaXN0b3J5IjpbLTQ4MTI1MjgxNSwtNjIyMTM1Nzk2LC0xMT
+Q5MjEyMTkwLDIxMzcyMjU1MzcsMzYyNTgxNDk2LC0xMTYxMTAx
+MzQsLTE1NzI1NDU5NDAsMjc0ODI2NDI2LDU0Nzk3NzE4MCwxNz
+c3NzA0NjYsLTEzNzcyODA4NzMsMTgyMDY3MTE3Ml19
 -->
