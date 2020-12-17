@@ -184,7 +184,7 @@ Chỉ bệnh nhân xuất viện có nhập ngày hẹn tái khám
 # 6. Nhóm “Thuốc vật tư y tế”
 
 ## 6.1. Chức năng “Toa thuốc”
-
+<a href="https://imgur.com/ROvONMn"><img src="https://i.imgur.com/ROvONMn.png" title="source: imgur.com" /></a>
 ## 6.2. Chức năng “Toa vật tư”
 
 ## 6.3. Chức năng “Gói vật tư”
@@ -215,11 +215,11 @@ Chỉ bệnh nhân xuất viện có nhập ngày hẹn tái khám
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTE5NTEzMTMsLTE0NDY2NTAxMDMsNj
-g5MjE2MzMyLDE4MzYxNTc2NjcsLTM1MTQxOTM5NSwyOTYxMTA3
-OTgsMTQxODYzNTQ5MiwtNzg4NTkzNjE5LC01MjM2MDg4Miw1NT
-A1NDk4NzYsMTA1NzgwNDI2OSwxODI4MDcyODgyLDEwNzQ5Nzcz
-MiwtMTM1Njc5ODg0MywyNzA5NDkxNTUsMzY1NzI5MDkxLDE2Nz
-Q3ODA5MTMsLTE1NzE1NjQ0OCwtNDgxMjUyODE1LC02MjIxMzU3
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTE5Nzg4NTc0OTIsLTIwOTE5NTEzMTMsLT
+E0NDY2NTAxMDMsNjg5MjE2MzMyLDE4MzYxNTc2NjcsLTM1MTQx
+OTM5NSwyOTYxMTA3OTgsMTQxODYzNTQ5MiwtNzg4NTkzNjE5LC
+01MjM2MDg4Miw1NTA1NDk4NzYsMTA1NzgwNDI2OSwxODI4MDcy
+ODgyLDEwNzQ5NzczMiwtMTM1Njc5ODg0MywyNzA5NDkxNTUsMz
+Y1NzI5MDkxLDE2NzQ3ODA5MTMsLTE1NzE1NjQ0OCwtNDgxMjUy
+ODE1XX0=
 -->
