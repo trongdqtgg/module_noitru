@@ -140,9 +140,9 @@ In nhiều phiếu chăm sóc
 In nhiều phiếu chăm sóc tổng
 <a href="https://imgur.com/cu7FLLO"><img src="https://i.imgur.com/cu7FLLO.png" title="source: imgur.com" /></a>
 ## 5.3. Chức năng “Phiếu sơ kết 15 ngày”
-
+<a href="https://imgur.com/3z2Xr7h"><img src="https://i.imgur.com/3z2Xr7h.png" title="source: imgur.com" /></a>
 ## 5.4. Chức năng “Trích biên bản hội chẩn”
-
+<a href="https://imgur.com/kjqVI9n"><img src="https://i.imgur.com/kjqVI9n.png" title="source: imgur.com" /></a>
 ## 5.5. Chức năng “Giấy cam đoan PTTT/ Gây mê hồi sức”
 
 ## 5.6. Chức năng “In bảng khai DVKT”
@@ -204,11 +204,11 @@ In nhiều phiếu chăm sóc tổng
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NjYyNTQxMywtMzUxNDE5Mzk1LDI5Nj
-ExMDc5OCwxNDE4NjM1NDkyLC03ODg1OTM2MTksLTUyMzYwODgy
-LDU1MDU0OTg3NiwxMDU3ODA0MjY5LDE4MjgwNzI4ODIsMTA3ND
-k3NzMyLC0xMzU2Nzk4ODQzLDI3MDk0OTE1NSwzNjU3MjkwOTEs
-MTY3NDc4MDkxMywtMTU3MTU2NDQ4LC00ODEyNTI4MTUsLTYyMj
-EzNTc5NiwtMTE0OTIxMjE5MCwyMTM3MjI1NTM3LDM2MjU4MTQ5
-Nl19
+eyJoaXN0b3J5IjpbLTE3MTcwMjI1NDEsLTM1MTQxOTM5NSwyOT
+YxMTA3OTgsMTQxODYzNTQ5MiwtNzg4NTkzNjE5LC01MjM2MDg4
+Miw1NTA1NDk4NzYsMTA1NzgwNDI2OSwxODI4MDcyODgyLDEwNz
+Q5NzczMiwtMTM1Njc5ODg0MywyNzA5NDkxNTUsMzY1NzI5MDkx
+LDE2NzQ3ODA5MTMsLTE1NzE1NjQ0OCwtNDgxMjUyODE1LC02Mj
+IxMzU3OTYsLTExNDkyMTIxOTAsMjEzNzIyNTUzNywzNjI1ODE0
+OTZdfQ==
 -->
