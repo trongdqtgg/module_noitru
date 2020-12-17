@@ -92,7 +92,9 @@ in kết quả siêu âm ngang
 ## 4.4. Chức năng “Danh sách CT Scanner”
 
 ## 4.5. Chức năng “Danh sách nội soi”
-
+<a href="https://imgur.com/t1Ib2bK"><img src="https://i.imgur.com/t1Ib2bK.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/9kqbM50"><img src="https://i.imgur.com/9kqbM50.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/F03PsfX"><img src="https://i.imgur.com/F03PsfX.png" title="source: imgur.com" /></a>
 ## 4.6. Chức năng “Kết quả điện tim”
 
 ## 4.7. Chức năng “Kết quả điện não”
@@ -173,10 +175,10 @@ in kết quả siêu âm ngang
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTY3OTg4NDMsMjcwOTQ5MTU1LDM2NT
-cyOTA5MSwxNjc0NzgwOTEzLC0xNTcxNTY0NDgsLTQ4MTI1Mjgx
-NSwtNjIyMTM1Nzk2LC0xMTQ5MjEyMTkwLDIxMzcyMjU1MzcsMz
-YyNTgxNDk2LC0xMTYxMTAxMzQsLTE1NzI1NDU5NDAsMjc0ODI2
-NDI2LDU0Nzk3NzE4MCwxNzc3NzA0NjYsLTEzNzcyODA4NzMsMT
-gyMDY3MTE3Ml19
+eyJoaXN0b3J5IjpbMTA3NDk3NzMyLC0xMzU2Nzk4ODQzLDI3MD
+k0OTE1NSwzNjU3MjkwOTEsMTY3NDc4MDkxMywtMTU3MTU2NDQ4
+LC00ODEyNTI4MTUsLTYyMjEzNTc5NiwtMTE0OTIxMjE5MCwyMT
+M3MjI1NTM3LDM2MjU4MTQ5NiwtMTE2MTEwMTM0LC0xNTcyNTQ1
+OTQwLDI3NDgyNjQyNiw1NDc5NzcxODAsMTc3NzcwNDY2LC0xMz
+c3MjgwODczLDE4MjA2NzExNzJdfQ==
 -->
