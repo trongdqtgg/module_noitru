@@ -96,8 +96,11 @@ in kết quả siêu âm ngang
 <a href="https://imgur.com/9kqbM50"><img src="https://i.imgur.com/9kqbM50.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/F03PsfX"><img src="https://i.imgur.com/F03PsfX.png" title="source: imgur.com" /></a>
 ## 4.6. Chức năng “Kết quả điện tim”
-
+<a href="https://imgur.com/ANjRO8Z"><img src="https://i.imgur.com/ANjRO8Z.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/dt4IiI1"><img src="https://i.imgur.com/dt4IiI1.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/P6iDBpv"><img src="https://i.imgur.com/P6iDBpv.png" title="source: imgur.com" /></a>
 ## 4.7. Chức năng “Kết quả điện não”
+
 
 ## 4.8. Chức năng “Kết quả đo hô hấp”
 
@@ -175,10 +178,10 @@ in kết quả siêu âm ngang
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDk3NzMyLC0xMzU2Nzk4ODQzLDI3MD
-k0OTE1NSwzNjU3MjkwOTEsMTY3NDc4MDkxMywtMTU3MTU2NDQ4
-LC00ODEyNTI4MTUsLTYyMjEzNTc5NiwtMTE0OTIxMjE5MCwyMT
-M3MjI1NTM3LDM2MjU4MTQ5NiwtMTE2MTEwMTM0LC0xNTcyNTQ1
-OTQwLDI3NDgyNjQyNiw1NDc5NzcxODAsMTc3NzcwNDY2LC0xMz
-c3MjgwODczLDE4MjA2NzExNzJdfQ==
+eyJoaXN0b3J5IjpbMjEzMDE0OTMxMSwxMDc0OTc3MzIsLTEzNT
+Y3OTg4NDMsMjcwOTQ5MTU1LDM2NTcyOTA5MSwxNjc0NzgwOTEz
+LC0xNTcxNTY0NDgsLTQ4MTI1MjgxNSwtNjIyMTM1Nzk2LC0xMT
+Q5MjEyMTkwLDIxMzcyMjU1MzcsMzYyNTgxNDk2LC0xMTYxMTAx
+MzQsLTE1NzI1NDU5NDAsMjc0ODI2NDI2LDU0Nzk3NzE4MCwxNz
+c3NzA0NjYsLTEzNzcyODA4NzMsMTgyMDY3MTE3Ml19
 -->
