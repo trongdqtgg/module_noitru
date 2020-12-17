@@ -158,9 +158,10 @@ Phiếu công khai DVKT tổng (TT50)
 ## 5.8. Chức năng “Phiếu tổng hợp chi phí điều trị”
 <a href="https://imgur.com/ZjoIUlW"><img src="https://i.imgur.com/ZjoIUlW.png" title="source: imgur.com" /></a>
 ## 5.9. Chức năng “Giấy ra viện”
-
+Chỉ in đối với BN ra viện
+<a href="https://imgur.com/9eJcVuh"><img src="https://i.imgur.com/9eJcVuh.png" title="source: imgur.com" /></a>
 ## 5.10. Chức năng “Giấy chứng nhận TTPT”
-
+<a href="https://imgur.com/aErAu26"><img src="https://i.imgur.com/aErAu26.png" title="source: imgur.com" /></a>
 ## 5.11. Chức năng “Giấy chuyển tuyến”
 
 ## 5.12. Chức năng “Giấy hẹn khám lại”
@@ -210,7 +211,7 @@ Phiếu công khai DVKT tổng (TT50)
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTYyMjg0NywtMzUxNDE5Mzk1LDI5Nj
+eyJoaXN0b3J5IjpbMjEyNjEwMzU0MiwtMzUxNDE5Mzk1LDI5Nj
 ExMDc5OCwxNDE4NjM1NDkyLC03ODg1OTM2MTksLTUyMzYwODgy
 LDU1MDU0OTg3NiwxMDU3ODA0MjY5LDE4MjgwNzI4ODIsMTA3ND
 k3NzMyLC0xMzU2Nzk4ODQzLDI3MDk0OTE1NSwzNjU3MjkwOTEs
