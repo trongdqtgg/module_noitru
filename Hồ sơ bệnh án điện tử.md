@@ -108,7 +108,9 @@ in kết quả siêu âm ngang
 <a href="https://imgur.com/JFl3Ndu"><img src="https://i.imgur.com/JFl3Ndu.png" title="source: imgur.com" /></a>
 
 ## 4.8. Chức năng “Kết quả đo hô hấp”
-
+<a href="https://imgur.com/rdjFFx5"><img src="https://i.imgur.com/rdjFFx5.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/aovDlJy"><img src="https://i.imgur.com/aovDlJy.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/E6TrOIz"><img src="https://i.imgur.com/E6TrOIz.png" title="source: imgur.com" /></a>
 ## 4.9. Chức năng “Phiếu phẫu thuật”
 <a href="https://imgur.com/6bTULdA"><img src="https://i.imgur.com/6bTULdA.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/ZizpSE0"><img src="https://i.imgur.com/ZizpSE0.png" title="source: imgur.com" /></a>
@@ -187,7 +189,7 @@ in kết quả siêu âm ngang
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzMxMDM4NCwtNTIzNjA4ODIsNTUwNT
+eyJoaXN0b3J5IjpbLTc4ODU5MzYxOSwtNTIzNjA4ODIsNTUwNT
 Q5ODc2LDEwNTc4MDQyNjksMTgyODA3Mjg4MiwxMDc0OTc3MzIs
 LTEzNTY3OTg4NDMsMjcwOTQ5MTU1LDM2NTcyOTA5MSwxNjc0Nz
 gwOTEzLC0xNTcxNTY0NDgsLTQ4MTI1MjgxNSwtNjIyMTM1Nzk2
