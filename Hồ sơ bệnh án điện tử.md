@@ -121,8 +121,13 @@ in kết quả siêu âm ngang
 # 5. Nhóm “Điều trị”
 
 ## 5.1. Chức năng “Phiếu điều trị”
+In tờ điều trị theo thời gian
 <a href="https://imgur.com/qJKLudO"><img src="https://i.imgur.com/qJKLudO.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/3RB2LhJ"><img src="https://i.imgur.com/3RB2LhJ.png" title="source: imgur.com" /></a>
+In tờ điều trị tổng
+<a href="https://imgur.com/OWYhhiy"><img src="https://i.imgur.com/OWYhhiy.png" title="source: imgur.com" /></a>
+In tờ điều trị theo ngày
+
 ## 5.2. Chức năng “Phiếu chăm sóc”
 
 ## 5.3. Chức năng “Phiếu sơ kết 15 ngày”
@@ -190,7 +195,7 @@ in kết quả siêu âm ngang
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg3NzMxMjEsMTQxODYzNTQ5MiwtNz
+eyJoaXN0b3J5IjpbLTE4NDg5ODIxMDgsMTQxODYzNTQ5MiwtNz
 g4NTkzNjE5LC01MjM2MDg4Miw1NTA1NDk4NzYsMTA1NzgwNDI2
 OSwxODI4MDcyODgyLDEwNzQ5NzczMiwtMTM1Njc5ODg0MywyNz
 A5NDkxNTUsMzY1NzI5MDkxLDE2NzQ3ODA5MTMsLTE1NzE1NjQ0
