@@ -106,7 +106,7 @@ in kết quả siêu âm ngang
 ## 4.8. Chức năng “Kết quả đo hô hấp”
 
 ## 4.9. Chức năng “Phiếu phẫu thuật”
-
+<a href="https://imgur.com/ZizpSE0"><img src="https://i.imgur.com/ZizpSE0.png" title="source: imgur.com" /></a>
 ## 4.10. Chức năng “Phiếu thủ thuật”
 # 5. Nhóm “Điều trị”
 
@@ -179,11 +179,11 @@ in kết quả siêu âm ngang
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzgwNDI2OSwxODI4MDcyODgyLDEwNz
-Q5NzczMiwtMTM1Njc5ODg0MywyNzA5NDkxNTUsMzY1NzI5MDkx
-LDE2NzQ3ODA5MTMsLTE1NzE1NjQ0OCwtNDgxMjUyODE1LC02Mj
-IxMzU3OTYsLTExNDkyMTIxOTAsMjEzNzIyNTUzNywzNjI1ODE0
-OTYsLTExNjExMDEzNCwtMTU3MjU0NTk0MCwyNzQ4MjY0MjYsNT
-Q3OTc3MTgwLDE3Nzc3MDQ2NiwtMTM3NzI4MDg3MywxODIwNjcx
-MTcyXX0=
+eyJoaXN0b3J5IjpbNTUwNTQ5ODc2LDEwNTc4MDQyNjksMTgyOD
+A3Mjg4MiwxMDc0OTc3MzIsLTEzNTY3OTg4NDMsMjcwOTQ5MTU1
+LDM2NTcyOTA5MSwxNjc0NzgwOTEzLC0xNTcxNTY0NDgsLTQ4MT
+I1MjgxNSwtNjIyMTM1Nzk2LC0xMTQ5MjEyMTkwLDIxMzcyMjU1
+MzcsMzYyNTgxNDk2LC0xMTYxMTAxMzQsLTE1NzI1NDU5NDAsMj
+c0ODI2NDI2LDU0Nzk3NzE4MCwxNzc3NzA0NjYsLTEzNzcyODA4
+NzNdfQ==
 -->
