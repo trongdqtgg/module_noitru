@@ -146,8 +146,10 @@ In nhiều phiếu chăm sóc tổng
 ## 5.5. Chức năng “Giấy cam đoan PTTT/ Gây mê hồi sức”
 <a href="https://imgur.com/67rajPi"><img src="https://i.imgur.com/67rajPi.png" title="source: imgur.com" /></a>
 ## 5.6. Chức năng “In bảng khai DVKT”
+Phiếu công khai DVKT
 <a href="https://imgur.com/M5vRcuN"><img src="https://i.imgur.com/M5vRcuN.png" title="source: imgur.com" /></a>
-Phiếu công khai DVKT 
+Phiếu công khai DVKT tổng
+<a href="https://imgur.com/1Zhbepz"><img src="https://i.imgur.com/1Zhbepz.png" title="source: imgur.com" /></a>
 ## 5.7. Chức năng “Phiếu công khai dịch vụ KCB (TT50)”
 
 ## 5.8. Chức năng “Phiếu tổng hợp chi phí điều trị”
@@ -205,7 +207,7 @@ Phiếu công khai DVKT
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTUyODU0LC0zNTE0MTkzOTUsMjk2MT
+eyJoaXN0b3J5IjpbMjY5ODU4OTkyLC0zNTE0MTkzOTUsMjk2MT
 EwNzk4LDE0MTg2MzU0OTIsLTc4ODU5MzYxOSwtNTIzNjA4ODIs
 NTUwNTQ5ODc2LDEwNTc4MDQyNjksMTgyODA3Mjg4MiwxMDc0OT
 c3MzIsLTEzNTY3OTg4NDMsMjcwOTQ5MTU1LDM2NTcyOTA5MSwx
