@@ -100,6 +100,7 @@ in kết quả siêu âm ngang
 <a href="https://imgur.com/dt4IiI1"><img src="https://i.imgur.com/dt4IiI1.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/P6iDBpv"><img src="https://i.imgur.com/P6iDBpv.png" title="source: imgur.com" /></a>
 ## 4.7. Chức năng “Kết quả điện não”
+<a href="https://imgur.com/u8yUfqS"><img src="https://i.imgur.com/u8yUfqS.png" title="source: imgur.com" /></a>
 
 
 ## 4.8. Chức năng “Kết quả đo hô hấp”
@@ -178,7 +179,7 @@ in kết quả siêu âm ngang
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDE0OTMxMSwxMDc0OTc3MzIsLTEzNT
+eyJoaXN0b3J5IjpbMTgyODA3Mjg4MiwxMDc0OTc3MzIsLTEzNT
 Y3OTg4NDMsMjcwOTQ5MTU1LDM2NTcyOTA5MSwxNjc0NzgwOTEz
 LC0xNTcxNTY0NDgsLTQ4MTI1MjgxNSwtNjIyMTM1Nzk2LC0xMT
 Q5MjEyMTkwLDIxMzcyMjU1MzcsMzYyNTgxNDk2LC0xMTYxMTAx
