@@ -179,7 +179,7 @@ Chỉ bệnh nhân xuất viện có nhập ngày hẹn tái khám
 ## 5.16. Chức năng “Phiếu chứng nhận dưỡng thai”
 
 ## 5.17. Chức năng “Phiếu chứng nhận nằm viện”
-
+<a href="https://imgur.com/Z0egd7I"><img src="https://i.imgur.com/Z0egd7I.png" title="source: imgur.com" /></a>
 ## 5.18. Chức năng “Phiếu thực hiện y lệnh”
 # 6. Nhóm “Thuốc vật tư y tế”
 
@@ -215,7 +215,7 @@ Chỉ bệnh nhân xuất viện có nhập ngày hẹn tái khám
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzkwMTAyMTIsLTE0NDY2NTAxMDMsNj
+eyJoaXN0b3J5IjpbLTIwOTE5NTEzMTMsLTE0NDY2NTAxMDMsNj
 g5MjE2MzMyLDE4MzYxNTc2NjcsLTM1MTQxOTM5NSwyOTYxMTA3
 OTgsMTQxODYzNTQ5MiwtNzg4NTkzNjE5LC01MjM2MDg4Miw1NT
 A1NDk4NzYsMTA1NzgwNDI2OSwxODI4MDcyODgyLDEwNzQ5Nzcz
