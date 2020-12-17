@@ -173,7 +173,7 @@ Chỉ bệnh nhân xuất viện có nhập ngày hẹn tái khám
 ## 5.13. Chức năng “Phiếu phản ứng thuốc”
 
 ## 5.14. Chức năng “Phiếu theo dõi chức năng sống”
-
+<a href="https://imgur.com/gMZxen4"><img src="https://i.imgur.com/gMZxen4.png" title="source: imgur.com" /></a>
 ## 5.15. Chức năng “Phiếu theo dõi truyền dịch”
 
 ## 5.16. Chức năng “Phiếu chứng nhận dưỡng thai”
@@ -215,11 +215,11 @@ Chỉ bệnh nhân xuất viện có nhập ngày hẹn tái khám
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY2NTAxMDMsNjg5MjE2MzMyLDE4Mz
-YxNTc2NjcsLTM1MTQxOTM5NSwyOTYxMTA3OTgsMTQxODYzNTQ5
-MiwtNzg4NTkzNjE5LC01MjM2MDg4Miw1NTA1NDk4NzYsMTA1Nz
-gwNDI2OSwxODI4MDcyODgyLDEwNzQ5NzczMiwtMTM1Njc5ODg0
-MywyNzA5NDkxNTUsMzY1NzI5MDkxLDE2NzQ3ODA5MTMsLTE1Nz
-E1NjQ0OCwtNDgxMjUyODE1LC02MjIxMzU3OTYsLTExNDkyMTIx
-OTBdfQ==
+eyJoaXN0b3J5IjpbLTEyNzkwMTAyMTIsLTE0NDY2NTAxMDMsNj
+g5MjE2MzMyLDE4MzYxNTc2NjcsLTM1MTQxOTM5NSwyOTYxMTA3
+OTgsMTQxODYzNTQ5MiwtNzg4NTkzNjE5LC01MjM2MDg4Miw1NT
+A1NDk4NzYsMTA1NzgwNDI2OSwxODI4MDcyODgyLDEwNzQ5Nzcz
+MiwtMTM1Njc5ODg0MywyNzA5NDkxNTUsMzY1NzI5MDkxLDE2Nz
+Q3ODA5MTMsLTE1NzE1NjQ0OCwtNDgxMjUyODE1LC02MjIxMzU3
+OTZdfQ==
 -->
