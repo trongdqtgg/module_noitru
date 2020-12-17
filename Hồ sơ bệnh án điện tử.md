@@ -151,7 +151,10 @@ Phiếu công khai DVKT
 Phiếu công khai DVKT tổng
 <a href="https://imgur.com/1Zhbepz"><img src="https://i.imgur.com/1Zhbepz.png" title="source: imgur.com" /></a>
 ## 5.7. Chức năng “Phiếu công khai dịch vụ KCB (TT50)”
-
+Phiếu công khai DVKT (TT50)
+<a href="https://imgur.com/LGmPk3E"><img src="https://i.imgur.com/LGmPk3E.png" title="source: imgur.com" /></a>
+Phiếu công khai DVKT tổng (TT50)
+<a href="https://imgur.com/iUDQgCF"><img src="https://i.imgur.com/iUDQgCF.png" title="source: imgur.com" /></a>
 ## 5.8. Chức năng “Phiếu tổng hợp chi phí điều trị”
 
 ## 5.9. Chức năng “Giấy ra viện”
@@ -207,11 +210,11 @@ Phiếu công khai DVKT tổng
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5ODU4OTkyLC0zNTE0MTkzOTUsMjk2MT
-EwNzk4LDE0MTg2MzU0OTIsLTc4ODU5MzYxOSwtNTIzNjA4ODIs
-NTUwNTQ5ODc2LDEwNTc4MDQyNjksMTgyODA3Mjg4MiwxMDc0OT
-c3MzIsLTEzNTY3OTg4NDMsMjcwOTQ5MTU1LDM2NTcyOTA5MSwx
-Njc0NzgwOTEzLC0xNTcxNTY0NDgsLTQ4MTI1MjgxNSwtNjIyMT
-M1Nzk2LC0xMTQ5MjEyMTkwLDIxMzcyMjU1MzcsMzYyNTgxNDk2
-XX0=
+eyJoaXN0b3J5IjpbLTkzOTAwOTIsLTM1MTQxOTM5NSwyOTYxMT
+A3OTgsMTQxODYzNTQ5MiwtNzg4NTkzNjE5LC01MjM2MDg4Miw1
+NTA1NDk4NzYsMTA1NzgwNDI2OSwxODI4MDcyODgyLDEwNzQ5Nz
+czMiwtMTM1Njc5ODg0MywyNzA5NDkxNTUsMzY1NzI5MDkxLDE2
+NzQ3ODA5MTMsLTE1NzE1NjQ0OCwtNDgxMjUyODE1LC02MjIxMz
+U3OTYsLTExNDkyMTIxOTAsMjEzNzIyNTUzNywzNjI1ODE0OTZd
+fQ==
 -->
