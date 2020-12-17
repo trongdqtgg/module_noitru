@@ -127,7 +127,9 @@ In tờ điều trị theo thời gian
 In tờ điều trị tổng
 <a href="https://imgur.com/OWYhhiy"><img src="https://i.imgur.com/OWYhhiy.png" title="source: imgur.com" /></a>
 In tờ điều trị theo ngày
-
+<a href="https://imgur.com/sqou0Ch"><img src="https://i.imgur.com/sqou0Ch.png" title="source: imgur.com" /></a>
+In tờ điều trị theo khoa
+<a href="https://imgur.com/TozBWrr"><img src="https://i.imgur.com/TozBWrr.png" title="source: imgur.com" /></a>
 ## 5.2. Chức năng “Phiếu chăm sóc”
 
 ## 5.3. Chức năng “Phiếu sơ kết 15 ngày”
@@ -195,11 +197,11 @@ In tờ điều trị theo ngày
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDg5ODIxMDgsMTQxODYzNTQ5MiwtNz
-g4NTkzNjE5LC01MjM2MDg4Miw1NTA1NDk4NzYsMTA1NzgwNDI2
-OSwxODI4MDcyODgyLDEwNzQ5NzczMiwtMTM1Njc5ODg0MywyNz
-A5NDkxNTUsMzY1NzI5MDkxLDE2NzQ3ODA5MTMsLTE1NzE1NjQ0
-OCwtNDgxMjUyODE1LC02MjIxMzU3OTYsLTExNDkyMTIxOTAsMj
-EzNzIyNTUzNywzNjI1ODE0OTYsLTExNjExMDEzNCwtMTU3MjU0
-NTk0MF19
+eyJoaXN0b3J5IjpbMjk2MTEwNzk4LDE0MTg2MzU0OTIsLTc4OD
+U5MzYxOSwtNTIzNjA4ODIsNTUwNTQ5ODc2LDEwNTc4MDQyNjks
+MTgyODA3Mjg4MiwxMDc0OTc3MzIsLTEzNTY3OTg4NDMsMjcwOT
+Q5MTU1LDM2NTcyOTA5MSwxNjc0NzgwOTEzLC0xNTcxNTY0NDgs
+LTQ4MTI1MjgxNSwtNjIyMTM1Nzk2LC0xMTQ5MjEyMTkwLDIxMz
+cyMjU1MzcsMzYyNTgxNDk2LC0xMTYxMTAxMzQsLTE1NzI1NDU5
+NDBdfQ==
 -->
