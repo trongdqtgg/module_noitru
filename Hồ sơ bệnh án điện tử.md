@@ -88,8 +88,11 @@ in kết quả siêu âm đứng
 in kết quả siêu âm ngang
 <a href="https://imgur.com/ubbpCor"><img src="https://i.imgur.com/ubbpCor.png" title="source: imgur.com" /></a>
 ## 4.3. Chức năng “Danh sách X-quang”
-
+<a href="https://imgur.com/PCUYHUI"><img src="https://i.imgur.com/PCUYHUI.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/N4ZNvHA"><img src="https://i.imgur.com/N4ZNvHA.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/wSUBhkU"><img src="https://i.imgur.com/wSUBhkU.png" title="source: imgur.com" /></a>
 ## 4.4. Chức năng “Danh sách CT Scanner”
+<a href="https://imgur.com/VTF0BNf"><img src="https://i.imgur.com/VTF0BNf.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/oJd23Pd"><img src="https://i.imgur.com/oJd23Pd.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/meJJRBe"><img src="https://i.imgur.com/meJJRBe.png" title="source: imgur.com" /></a>
 ## 4.5. Chức năng “Danh sách nội soi”
@@ -184,11 +187,11 @@ in kết quả siêu âm ngang
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTgwNjYzMDgsLTUyMzYwODgyLDU1MD
-U0OTg3NiwxMDU3ODA0MjY5LDE4MjgwNzI4ODIsMTA3NDk3NzMy
-LC0xMzU2Nzk4ODQzLDI3MDk0OTE1NSwzNjU3MjkwOTEsMTY3ND
-c4MDkxMywtMTU3MTU2NDQ4LC00ODEyNTI4MTUsLTYyMjEzNTc5
-NiwtMTE0OTIxMjE5MCwyMTM3MjI1NTM3LDM2MjU4MTQ5NiwtMT
-E2MTEwMTM0LC0xNTcyNTQ1OTQwLDI3NDgyNjQyNiw1NDc5Nzcx
-ODBdfQ==
+eyJoaXN0b3J5IjpbMTc4NzMxMDM4NCwtNTIzNjA4ODIsNTUwNT
+Q5ODc2LDEwNTc4MDQyNjksMTgyODA3Mjg4MiwxMDc0OTc3MzIs
+LTEzNTY3OTg4NDMsMjcwOTQ5MTU1LDM2NTcyOTA5MSwxNjc0Nz
+gwOTEzLC0xNTcxNTY0NDgsLTQ4MTI1MjgxNSwtNjIyMTM1Nzk2
+LC0xMTQ5MjEyMTkwLDIxMzcyMjU1MzcsMzYyNTgxNDk2LC0xMT
+YxMTAxMzQsLTE1NzI1NDU5NDAsMjc0ODI2NDI2LDU0Nzk3NzE4
+MF19
 -->
