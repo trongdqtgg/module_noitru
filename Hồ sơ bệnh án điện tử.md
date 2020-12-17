@@ -121,7 +121,7 @@ in kết quả siêu âm ngang
 # 5. Nhóm “Điều trị”
 
 ## 5.1. Chức năng “Phiếu điều trị”
-
+<a href="https://imgur.com/qJKLudO"><img src="https://i.imgur.com/qJKLudO.png" title="source: imgur.com" /></a>
 ## 5.2. Chức năng “Phiếu chăm sóc”
 
 ## 5.3. Chức năng “Phiếu sơ kết 15 ngày”
@@ -189,11 +189,11 @@ in kết quả siêu âm ngang
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODU5MzYxOSwtNTIzNjA4ODIsNTUwNT
-Q5ODc2LDEwNTc4MDQyNjksMTgyODA3Mjg4MiwxMDc0OTc3MzIs
-LTEzNTY3OTg4NDMsMjcwOTQ5MTU1LDM2NTcyOTA5MSwxNjc0Nz
-gwOTEzLC0xNTcxNTY0NDgsLTQ4MTI1MjgxNSwtNjIyMTM1Nzk2
-LC0xMTQ5MjEyMTkwLDIxMzcyMjU1MzcsMzYyNTgxNDk2LC0xMT
-YxMTAxMzQsLTE1NzI1NDU5NDAsMjc0ODI2NDI2LDU0Nzk3NzE4
-MF19
+eyJoaXN0b3J5IjpbMTQxODYzNTQ5MiwtNzg4NTkzNjE5LC01Mj
+M2MDg4Miw1NTA1NDk4NzYsMTA1NzgwNDI2OSwxODI4MDcyODgy
+LDEwNzQ5NzczMiwtMTM1Njc5ODg0MywyNzA5NDkxNTUsMzY1Nz
+I5MDkxLDE2NzQ3ODA5MTMsLTE1NzE1NjQ0OCwtNDgxMjUyODE1
+LC02MjIxMzU3OTYsLTExNDkyMTIxOTAsMjEzNzIyNTUzNywzNj
+I1ODE0OTYsLTExNjExMDEzNCwtMTU3MjU0NTk0MCwyNzQ4MjY0
+MjZdfQ==
 -->
