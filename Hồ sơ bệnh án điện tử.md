@@ -144,9 +144,10 @@ In nhiều phiếu chăm sóc tổng
 ## 5.4. Chức năng “Trích biên bản hội chẩn”
 <a href="https://imgur.com/kjqVI9n"><img src="https://i.imgur.com/kjqVI9n.png" title="source: imgur.com" /></a>
 ## 5.5. Chức năng “Giấy cam đoan PTTT/ Gây mê hồi sức”
-
+<a href="https://imgur.com/67rajPi"><img src="https://i.imgur.com/67rajPi.png" title="source: imgur.com" /></a>
 ## 5.6. Chức năng “In bảng khai DVKT”
-
+<a href="https://imgur.com/M5vRcuN"><img src="https://i.imgur.com/M5vRcuN.png" title="source: imgur.com" /></a>
+Phiếu công khai DVKT 
 ## 5.7. Chức năng “Phiếu công khai dịch vụ KCB (TT50)”
 
 ## 5.8. Chức năng “Phiếu tổng hợp chi phí điều trị”
@@ -204,11 +205,11 @@ In nhiều phiếu chăm sóc tổng
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTcwMjI1NDEsLTM1MTQxOTM5NSwyOT
-YxMTA3OTgsMTQxODYzNTQ5MiwtNzg4NTkzNjE5LC01MjM2MDg4
-Miw1NTA1NDk4NzYsMTA1NzgwNDI2OSwxODI4MDcyODgyLDEwNz
-Q5NzczMiwtMTM1Njc5ODg0MywyNzA5NDkxNTUsMzY1NzI5MDkx
-LDE2NzQ3ODA5MTMsLTE1NzE1NjQ0OCwtNDgxMjUyODE1LC02Mj
-IxMzU3OTYsLTExNDkyMTIxOTAsMjEzNzIyNTUzNywzNjI1ODE0
-OTZdfQ==
+eyJoaXN0b3J5IjpbLTg0OTUyODU0LC0zNTE0MTkzOTUsMjk2MT
+EwNzk4LDE0MTg2MzU0OTIsLTc4ODU5MzYxOSwtNTIzNjA4ODIs
+NTUwNTQ5ODc2LDEwNTc4MDQyNjksMTgyODA3Mjg4MiwxMDc0OT
+c3MzIsLTEzNTY3OTg4NDMsMjcwOTQ5MTU1LDM2NTcyOTA5MSwx
+Njc0NzgwOTEzLC0xNTcxNTY0NDgsLTQ4MTI1MjgxNSwtNjIyMT
+M1Nzk2LC0xMTQ5MjEyMTkwLDIxMzcyMjU1MzcsMzYyNTgxNDk2
+XX0=
 -->
