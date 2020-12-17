@@ -168,7 +168,8 @@ Giấy chứng nhận TTPT
 Chỉ bệnh nhân chuyển tuyến
 <a href="https://imgur.com/wMRWE8u"><img src="https://i.imgur.com/wMRWE8u.png" title="source: imgur.com" /></a>
 ## 5.12. Chức năng “Giấy hẹn khám lại”
-
+Chỉ bệnh nhân xuất viện có nhập ngày hẹn tái khám
+<a href="https://imgur.com/MET0qXu"><img src="https://i.imgur.com/MET0qXu.png" title="source: imgur.com" /></a>
 ## 5.13. Chức năng “Phiếu phản ứng thuốc”
 
 ## 5.14. Chức năng “Phiếu theo dõi chức năng sống”
@@ -214,11 +215,11 @@ Chỉ bệnh nhân chuyển tuyến
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5MjE2MzMyLDE4MzYxNTc2NjcsLTM1MT
-QxOTM5NSwyOTYxMTA3OTgsMTQxODYzNTQ5MiwtNzg4NTkzNjE5
-LC01MjM2MDg4Miw1NTA1NDk4NzYsMTA1NzgwNDI2OSwxODI4MD
-cyODgyLDEwNzQ5NzczMiwtMTM1Njc5ODg0MywyNzA5NDkxNTUs
-MzY1NzI5MDkxLDE2NzQ3ODA5MTMsLTE1NzE1NjQ0OCwtNDgxMj
-UyODE1LC02MjIxMzU3OTYsLTExNDkyMTIxOTAsMjEzNzIyNTUz
-N119
+eyJoaXN0b3J5IjpbLTE0NDY2NTAxMDMsNjg5MjE2MzMyLDE4Mz
+YxNTc2NjcsLTM1MTQxOTM5NSwyOTYxMTA3OTgsMTQxODYzNTQ5
+MiwtNzg4NTkzNjE5LC01MjM2MDg4Miw1NTA1NDk4NzYsMTA1Nz
+gwNDI2OSwxODI4MDcyODgyLDEwNzQ5NzczMiwtMTM1Njc5ODg0
+MywyNzA5NDkxNTUsMzY1NzI5MDkxLDE2NzQ3ODA5MTMsLTE1Nz
+E1NjQ0OCwtNDgxMjUyODE1LC02MjIxMzU3OTYsLTExNDkyMTIx
+OTBdfQ==
 -->
