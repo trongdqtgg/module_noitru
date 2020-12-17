@@ -81,7 +81,10 @@ Cấu hình tham số hệ thống: 8286137 - Bệnh án Răng Hàm Mặt = 1
 <a href="https://imgur.com/LmvEKYC"><img src="https://i.imgur.com/LmvEKYC.png" title="source: imgur.com" /></a>
 ## 4.2. Chức năng “Danh sách siêu âm”
 <a href="https://imgur.com/KhPgwjv"><img src="https://i.imgur.com/KhPgwjv.png" title="source: imgur.com" /></a>
+in kết quả siêu âm đứng
 <a href="https://imgur.com/7AFRghk"><img src="https://i.imgur.com/7AFRghk.png" title="source: imgur.com" /></a>
+in kết quả siêu âm ngang
+
 ## 4.3. Chức năng “Danh sách X-quang”
 
 ## 4.4. Chức năng “Danh sách CT Scanner”
@@ -168,10 +171,10 @@ Cấu hình tham số hệ thống: 8286137 - Bệnh án Răng Hàm Mặt = 1
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTg5OTY2NSwyNzA5NDkxNTUsMzY1Nz
-I5MDkxLDE2NzQ3ODA5MTMsLTE1NzE1NjQ0OCwtNDgxMjUyODE1
-LC02MjIxMzU3OTYsLTExNDkyMTIxOTAsMjEzNzIyNTUzNywzNj
-I1ODE0OTYsLTExNjExMDEzNCwtMTU3MjU0NTk0MCwyNzQ4MjY0
-MjYsNTQ3OTc3MTgwLDE3Nzc3MDQ2NiwtMTM3NzI4MDg3MywxOD
-IwNjcxMTcyXX0=
+eyJoaXN0b3J5IjpbODc4NTc0OTM3LDI3MDk0OTE1NSwzNjU3Mj
+kwOTEsMTY3NDc4MDkxMywtMTU3MTU2NDQ4LC00ODEyNTI4MTUs
+LTYyMjEzNTc5NiwtMTE0OTIxMjE5MCwyMTM3MjI1NTM3LDM2Mj
+U4MTQ5NiwtMTE2MTEwMTM0LC0xNTcyNTQ1OTQwLDI3NDgyNjQy
+Niw1NDc5NzcxODAsMTc3NzcwNDY2LC0xMzc3MjgwODczLDE4Mj
+A2NzExNzJdfQ==
 -->
