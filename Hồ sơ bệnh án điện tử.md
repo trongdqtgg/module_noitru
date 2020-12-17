@@ -77,7 +77,7 @@ Cấu hình tham số hệ thống: 8286137 - Bệnh án Răng Hàm Mặt = 1
 <a href="https://imgur.com/redkTJi"><img src="https://i.imgur.com/redkTJi.png" title="source: imgur.com" /></a>
 # 4. Nhóm “Cận Lâm Sàng” 
 ## 4.1. Chức năng “Danh sách xét nghiệm”
-<a href="https://imgur.com/xH8LLY5"><img src="https://i.imgur.com/xH8LLY5.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/n2vMkvs"><img src="https://i.imgur.com/n2vMkvs.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/LmvEKYC"><img src="https://i.imgur.com/LmvEKYC.png" title="source: imgur.com" /></a>
 ## 4.2. Chức năng “Danh sách siêu âm”
 
@@ -167,9 +167,9 @@ Cấu hình tham số hệ thống: 8286137 - Bệnh án Răng Hàm Mặt = 1
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1NzI5MDkxLDE2NzQ3ODA5MTMsLTE1Nz
-E1NjQ0OCwtNDgxMjUyODE1LC02MjIxMzU3OTYsLTExNDkyMTIx
-OTAsMjEzNzIyNTUzNywzNjI1ODE0OTYsLTExNjExMDEzNCwtMT
-U3MjU0NTk0MCwyNzQ4MjY0MjYsNTQ3OTc3MTgwLDE3Nzc3MDQ2
-NiwtMTM3NzI4MDg3MywxODIwNjcxMTcyXX0=
+eyJoaXN0b3J5IjpbMjcwOTQ5MTU1LDM2NTcyOTA5MSwxNjc0Nz
+gwOTEzLC0xNTcxNTY0NDgsLTQ4MTI1MjgxNSwtNjIyMTM1Nzk2
+LC0xMTQ5MjEyMTkwLDIxMzcyMjU1MzcsMzYyNTgxNDk2LC0xMT
+YxMTAxMzQsLTE1NzI1NDU5NDAsMjc0ODI2NDI2LDU0Nzk3NzE4
+MCwxNzc3NzA0NjYsLTEzNzcyODA4NzMsMTgyMDY3MTE3Ml19
 -->
