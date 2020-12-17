@@ -165,7 +165,8 @@ Giấy chứng nhận TTPT
 <a href="https://imgur.com/aErAu26"><img src="https://i.imgur.com/aErAu26.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/U2mtpkh"><img src="https://i.imgur.com/U2mtpkh.png" title="source: imgur.com" /></a>
 ## 5.11. Chức năng “Giấy chuyển tuyến”
-
+Chỉ bệnh nhân chuyển tuyến
+<a href="https://imgur.com/wMRWE8u"><img src="https://i.imgur.com/wMRWE8u.png" title="source: imgur.com" /></a>
 ## 5.12. Chức năng “Giấy hẹn khám lại”
 
 ## 5.13. Chức năng “Phiếu phản ứng thuốc”
@@ -213,11 +214,11 @@ Giấy chứng nhận TTPT
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjE1NzY2NywtMzUxNDE5Mzk1LDI5Nj
-ExMDc5OCwxNDE4NjM1NDkyLC03ODg1OTM2MTksLTUyMzYwODgy
-LDU1MDU0OTg3NiwxMDU3ODA0MjY5LDE4MjgwNzI4ODIsMTA3ND
-k3NzMyLC0xMzU2Nzk4ODQzLDI3MDk0OTE1NSwzNjU3MjkwOTEs
-MTY3NDc4MDkxMywtMTU3MTU2NDQ4LC00ODEyNTI4MTUsLTYyMj
-EzNTc5NiwtMTE0OTIxMjE5MCwyMTM3MjI1NTM3LDM2MjU4MTQ5
-Nl19
+eyJoaXN0b3J5IjpbNjg5MjE2MzMyLDE4MzYxNTc2NjcsLTM1MT
+QxOTM5NSwyOTYxMTA3OTgsMTQxODYzNTQ5MiwtNzg4NTkzNjE5
+LC01MjM2MDg4Miw1NTA1NDk4NzYsMTA1NzgwNDI2OSwxODI4MD
+cyODgyLDEwNzQ5NzczMiwtMTM1Njc5ODg0MywyNzA5NDkxNTUs
+MzY1NzI5MDkxLDE2NzQ3ODA5MTMsLTE1NzE1NjQ0OCwtNDgxMj
+UyODE1LC02MjIxMzU3OTYsLTExNDkyMTIxOTAsMjEzNzIyNTUz
+N119
 -->
