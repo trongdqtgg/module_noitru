@@ -156,7 +156,7 @@ Phiếu công khai DVKT (TT50)
 Phiếu công khai DVKT tổng (TT50)
 <a href="https://imgur.com/iUDQgCF"><img src="https://i.imgur.com/iUDQgCF.png" title="source: imgur.com" /></a>
 ## 5.8. Chức năng “Phiếu tổng hợp chi phí điều trị”
-
+<a href="https://imgur.com/ZjoIUlW"><img src="https://i.imgur.com/ZjoIUlW.png" title="source: imgur.com" /></a>
 ## 5.9. Chức năng “Giấy ra viện”
 
 ## 5.10. Chức năng “Giấy chứng nhận TTPT”
@@ -210,11 +210,11 @@ Phiếu công khai DVKT tổng (TT50)
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTAwOTIsLTM1MTQxOTM5NSwyOTYxMT
-A3OTgsMTQxODYzNTQ5MiwtNzg4NTkzNjE5LC01MjM2MDg4Miw1
-NTA1NDk4NzYsMTA1NzgwNDI2OSwxODI4MDcyODgyLDEwNzQ5Nz
-czMiwtMTM1Njc5ODg0MywyNzA5NDkxNTUsMzY1NzI5MDkxLDE2
-NzQ3ODA5MTMsLTE1NzE1NjQ0OCwtNDgxMjUyODE1LC02MjIxMz
-U3OTYsLTExNDkyMTIxOTAsMjEzNzIyNTUzNywzNjI1ODE0OTZd
-fQ==
+eyJoaXN0b3J5IjpbLTQ2OTYyMjg0NywtMzUxNDE5Mzk1LDI5Nj
+ExMDc5OCwxNDE4NjM1NDkyLC03ODg1OTM2MTksLTUyMzYwODgy
+LDU1MDU0OTg3NiwxMDU3ODA0MjY5LDE4MjgwNzI4ODIsMTA3ND
+k3NzMyLC0xMzU2Nzk4ODQzLDI3MDk0OTE1NSwzNjU3MjkwOTEs
+MTY3NDc4MDkxMywtMTU3MTU2NDQ4LC00ODEyNTI4MTUsLTYyMj
+EzNTc5NiwtMTE0OTIxMjE5MCwyMTM3MjI1NTM3LDM2MjU4MTQ5
+Nl19
 -->
