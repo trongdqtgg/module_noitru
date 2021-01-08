@@ -1,4 +1,5 @@
-﻿# 1. Nhóm chức năng chung
+﻿
+# 1. Nhóm chức năng chung
 <a href="https://imgur.com/s59nelR"><img src="https://i.imgur.com/s59nelR.png" title="source: imgur.com" /></a>
 ## 1.1. Chức năng “Tra cứu”
 Chức năng thực hiện nhằm mục đích tra cứu thông tin số bệnh án    nội trú/ bệnh án ngoại trú của bệnh nhân.
@@ -216,11 +217,11 @@ Chỉ bệnh nhân xuất viện có nhập ngày hẹn tái khám
 
 ## 7.7. Chức năng “In bảng kê toa miễn phí”
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTQ0NjE3MywtMjA5MTk1MTMxMywtMT
-Q0NjY1MDEwMyw2ODkyMTYzMzIsMTgzNjE1NzY2NywtMzUxNDE5
-Mzk1LDI5NjExMDc5OCwxNDE4NjM1NDkyLC03ODg1OTM2MTksLT
-UyMzYwODgyLDU1MDU0OTg3NiwxMDU3ODA0MjY5LDE4MjgwNzI4
-ODIsMTA3NDk3NzMyLC0xMzU2Nzk4ODQzLDI3MDk0OTE1NSwzNj
-U3MjkwOTEsMTY3NDc4MDkxMywtMTU3MTU2NDQ4LC00ODEyNTI4
-MTVdfQ==
+eyJoaXN0b3J5IjpbLTE1MjQ5MzA0NDksMTcyNTQ0NjE3MywtMj
+A5MTk1MTMxMywtMTQ0NjY1MDEwMyw2ODkyMTYzMzIsMTgzNjE1
+NzY2NywtMzUxNDE5Mzk1LDI5NjExMDc5OCwxNDE4NjM1NDkyLC
+03ODg1OTM2MTksLTUyMzYwODgyLDU1MDU0OTg3NiwxMDU3ODA0
+MjY5LDE4MjgwNzI4ODIsMTA3NDk3NzMyLC0xMzU2Nzk4ODQzLD
+I3MDk0OTE1NSwzNjU3MjkwOTEsMTY3NDc4MDkxMywtMTU3MTU2
+NDQ4XX0=
 -->
