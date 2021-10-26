@@ -14,7 +14,7 @@ Hỗ trợ viết markdown: [https://stackedit.io/](https://stackedit.io/). Ti�
 
 Hỗ trợ upload hình ảnh: https://imgur.com/. Sử dụng để link hình ảnh trực tiếp vào markdown
 
-Hỗ trợ export md to pdf https://www.markdowntopdf.com/
+Hỗ trợ export md to pdf https://tools.pdfforge.org/markdown-to-pdf
 
 Doc danh sách chức năng: https://docs.google.com/spreadsheets/d/1MLMKIcho7iJYBRtF4CZpFQfpUUZzsumekmUZYbMgD0c/edit#gid=0
 
